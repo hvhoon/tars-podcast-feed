@@ -8,12 +8,21 @@
     <description>Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 14:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 14:30:04 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.</itunes:summary>
     <itunes:category text="Education" />
     
+    <item>
+      <title>[openclaw] — [openclaw] Podcast: OpenClaw is the first real “keyboard test” for agentic AI and most teams aren’t ready.</title>
+      <description></description>
+      <enclosure url="https://drstorm.substack.com/p/podcast-openclaw-is-the-first-real" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772461804238-qefq10</guid>
+      <pubDate>Mon, 02 Mar 2026 14:30:04 GMT</pubDate>
+      
+      <itunes:author>drstorm.substack.com</itunes:author>
+    </item>
     <item>
       <title>[openclaw] — [openclaw] The OpenClaw-ification of AI - The AI Daily Brief</title>
       <description></description>
