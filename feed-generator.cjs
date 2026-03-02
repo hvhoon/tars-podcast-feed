@@ -130,6 +130,8 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
       
       if (!encMatch) continue; // skip items without audio
       
+      const imageMatch = item.match(/<itunes:image[^>]*href=["']([^"']+)["']/i);
+      
       return {
         title: title,
         audioUrl: encMatch[1],
@@ -137,6 +139,7 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
         duration: durationMatch ? durationMatch[1].trim() : null,
         fileSize: lengthMatch ? parseInt(lengthMatch[1]) : 0,
         pubDate: pubDateMatch ? pubDateMatch[1].trim() : null,
+        imageUrl: imageMatch ? imageMatch[1] : '',
       };
     }
   }
@@ -180,6 +183,7 @@ async function cmdAdd(args) {
       duration: args.duration || null,
       fileSize: parseInt(args.fileSize || '0'),
       originalPodcast: args.podcast || null,
+      imageUrl: args.imageUrl || '',
       addedAt: new Date().toISOString(),
     };
   } else {
