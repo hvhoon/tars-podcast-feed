@@ -4,22 +4,28 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TARS Learning</title>
-    <description>Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.</description>
+    <title>Pulse</title>
+    <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 14:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 18:11:17 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
-    <itunes:summary>Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.</itunes:summary>
-    <itunes:category text="Education" />
-    
+    <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
+    <itunes:category text="News" />
+    <itunes:image href="https://hvhoon.github.io/tars-podcast-feed/TARS.png" />
+    <image>
+      <url>https://hvhoon.github.io/tars-podcast-feed/TARS.png</url>
+      <title>Pulse</title>
+      <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
+    </image>
     <item>
       <title>[openclaw] — [openclaw] Podcast: OpenClaw is the first real “keyboard test” for agentic AI and most teams aren’t ready.</title>
       <description></description>
       <enclosure url="https://drstorm.substack.com/p/podcast-openclaw-is-the-first-real" type="audio/mpeg" length="0" />
       <guid isPermaLink="false">tars-1772461804238-qefq10</guid>
       <pubDate>Mon, 02 Mar 2026 14:30:04 GMT</pubDate>
+      
       
       <itunes:author>drstorm.substack.com</itunes:author>
     </item>
@@ -29,6 +35,7 @@
       <enclosure url="https://podcasts.apple.com/au/podcast/the-openclaw-ification-of-ai/id1680633614?i=1000751828664" type="audio/mpeg" length="0" />
       <guid isPermaLink="false">tars-1772461801681-zvi0sk</guid>
       <pubDate>Mon, 02 Mar 2026 14:30:01 GMT</pubDate>
+      
       
       <itunes:author>The AI Daily Brief</itunes:author>
     </item>
@@ -41,6 +48,7 @@ Follow the ⁠latest developments in Iran live⁠ by subs</description>
       <guid isPermaLink="false">tars-1772414660030-ddvmky</guid>
       <pubDate>Mon, 02 Mar 2026 01:24:21 GMT</pubDate>
       <itunes:duration>760</itunes:duration>
+      
       <itunes:author>Reuters World News</itunes:author>
     </item>
     <item>
@@ -50,6 +58,7 @@ Follow the ⁠latest developments in Iran live⁠ by subs</description>
       <guid isPermaLink="false">tars-1772414654880-ypkr4o</guid>
       <pubDate>Mon, 02 Mar 2026 01:24:15 GMT</pubDate>
       <itunes:duration>1448</itunes:duration>
+      
       <itunes:author>Haaretz</itunes:author>
     </item>
   </channel>

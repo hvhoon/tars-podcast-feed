@@ -24,10 +24,10 @@ const DATA_DIR = path.join(__dirname, 'data');
 const EPISODES_FILE = path.join(DATA_DIR, 'episodes.json');
 const FEED_FILE = path.join(__dirname, 'feed.xml');
 
-const FEED_TITLE = 'TARS Learning';
-const FEED_DESCRIPTION = 'Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.';
+const FEED_TITLE = 'Pulse';
+const FEED_DESCRIPTION = 'Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.';
 const FEED_LINK = 'https://hvhoon.github.io/tars-podcast-feed/feed.xml';
-const FEED_IMAGE = ''; // optional: add a cover image URL later
+const FEED_IMAGE = 'https://hvhoon.github.io/tars-podcast-feed/TARS.png'; // Cover image
 
 // ── Data ──
 
@@ -66,7 +66,7 @@ function buildFeed(episodes) {
   
   const items = episodes.map(ep => {
     const title = `[${ep.topic}] — ${ep.title}`;
-    const guid = ep.id || `tars-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+    const guid = ep.id || `pulse-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
     
     return `    <item>
       <title>${escapeXml(title)}</title>
@@ -75,7 +75,8 @@ function buildFeed(episodes) {
       <guid isPermaLink="false">${escapeXml(guid)}</guid>
       <pubDate>${formatRFC2822(ep.addedAt || new Date())}</pubDate>
       ${ep.duration ? `<itunes:duration>${ep.duration}</itunes:duration>` : ''}
-      ${ep.originalPodcast ? `<itunes:author>${escapeXml(ep.originalPodcast)}</itunes:author>` : ''}
+      ${ep.imageUrl ? `<itunes:image href="${escapeXml(ep.imageUrl)}" />` : ''}
+      ${ep.originalPodcast ? `<itunes:author>${escapeXml(ep.originalPodcast)}</itunes:author>` : '<itunes:author>TARS</itunes:author>'}
     </item>`;
   }).join('\n');
 
@@ -93,8 +94,13 @@ function buildFeed(episodes) {
     <atom:link href="${escapeXml(FEED_LINK)}" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>${escapeXml(FEED_DESCRIPTION)}</itunes:summary>
-    <itunes:category text="Education" />
+    <itunes:category text="News" />
     ${FEED_IMAGE ? `<itunes:image href="${escapeXml(FEED_IMAGE)}" />` : ''}
+    <image>
+      <url>${escapeXml(FEED_IMAGE)}</url>
+      <title>${escapeXml(FEED_TITLE)}</title>
+      <link>${escapeXml(FEED_LINK)}</link>
+    </image>
 ${items}
   </channel>
 </rss>`;
