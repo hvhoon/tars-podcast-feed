@@ -6,10 +6,10 @@
   <channel>
     <title>TARS Learning</title>
     <description>Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.</description>
-    <link>https://harish-hoon.github.io/tars-podcast-feed/feed.xml</link>
+    <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 01:24:21 GMT</lastBuildDate>
-    <atom:link href="https://harish-hoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Mar 2026 14:01:03 GMT</lastBuildDate>
+    <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.</itunes:summary>
     <itunes:category text="Education" />

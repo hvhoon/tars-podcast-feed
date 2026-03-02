@@ -26,7 +26,7 @@ const FEED_FILE = path.join(__dirname, 'feed.xml');
 
 const FEED_TITLE = 'TARS Learning';
 const FEED_DESCRIPTION = 'Curated podcast episodes by TARS — your Chief of Staff. Episodes are organized by learning topic.';
-const FEED_LINK = 'https://harish-hoon.github.io/tars-podcast-feed/feed.xml';
+const FEED_LINK = 'https://hvhoon.github.io/tars-podcast-feed/feed.xml';
 const FEED_IMAGE = ''; // optional: add a cover image URL later
 
 // ── Data ──
