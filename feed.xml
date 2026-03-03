@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 10:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 12:20:12 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,103 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[OpenClaw] — Is OpenClaw’s Hype Real? Are AI Agents Replacing Jobs? What’s the Anti-AI Thesis?</title>
+      <description>The Napkin Math duo is back with another episode. 
+We spend most of this one trying to make sense of AI agents, OpenClaw - the new kid on the block, and why this wave feels messier but more real than the last few. 
+We talk through hype vs reality, what agents can actually do today, and how work is quietly shifting from roles and seats to tasks and systems. We also discuss AI fluency levels, how people are using Claude Code in real marketing workflows, one-person companies, and end with the Anti-AI portfolio.
+Timestamps
+00:00 Intro
+01:15 OpenClaw &amp; the agent breakout moment
+06:52 Hype vs. reality: shiny tools, boring winners
+09:45 The Dropbox lesson: abstraction beats raw tech
+12:43 AI agents, security &amp; where this breaks
+19:07 AI vs SaaS, leverage &amp; outcome-based work
+24:58 Are AI agents a</description>
+      <enclosure url="https://media.transistor.fm/2e3dda9a/f729505d.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772540412029-9zeskd</guid>
+      <pubDate>Tue, 03 Mar 2026 12:20:12 GMT</pubDate>
+      <itunes:duration>3949</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/bf/61/66bf6163-6a64-f556-ef32-91a9a6730124/mza_6501086519230539462.jpg/600x600bb.jpg" />
+      <itunes:author>Napkin Math</itunes:author>
+    </item>
+    <item>
+      <title>[OpenClaw] — Moltbook 3:16 – DTNS Live 5113</title>
+      <description>We share our feelings about Moltbook, a Reddit-like site for AI agents from popular AI assistant platform OpenClaw. Komei asked what steps any of us have taken to make provisions for our accounts after we die. And the Information reports Nvidia will not be introducing any new GPUs in 2026. Is this the final nail in the coffin for the DIY PC enthusiast hobby?
+
+
+Starring Sarah Lane, Tom Merritt, Robb Dunewood, Len Peralta, Roger Chang, Joe.
+
+
+To read the show notes click here!
+
+
+Support the show on Patreon by becoming a supporter!</description>
+      <enclosure url="https://dtns.muffincdn.com/DTNS20260205.mp4" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772540411470-ubzmb4</guid>
+      <pubDate>Tue, 03 Mar 2026 12:20:11 GMT</pubDate>
+      <itunes:duration>4178</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/79/5d/f1795dac-54de-605e-69a0-a78a4c4df596/mza_8844913988741003044.png/600x600bb.jpg" />
+      <itunes:author>Daily Tech News Show (VIDEO)</itunes:author>
+    </item>
+    <item>
+      <title>[OpenClaw] — OpenClaw &amp; Moltbook: AI Agents and Cybersecurity Risks</title>
+      <description>Autonomous AI assistants are hitting the mainstream — but at what cost? This week, we discuss the recent OpenClaw phenomenon (formerly Clawdbot/Moltbot), the security fiasco surrounding Moltbook’s exposed database, and the quirky yet concerning AI agent dating platform MoltMatch. We explore the privacy and cybersecurity implications of entrusting AI agents with sensitive access and how defenders should think about emerging agentic risks.
+
+** Links mentioned on the show **
+
+
+
+OpenClaw (a.k.a. Moltbot) is everywhere all at once, and a disaster waiting to happen
+
+https://garymarcus.substack.com/p/openclaw-aka-moltbot-is-everywhere
+
+Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site
+
+https://www.404media.co/exposed-moltbook-database-let-anyone-take-control-of-any-ai-</description>
+      <enclosure url="https://traffic.libsyn.com/socialmediasec/Shared_Security_E419.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772540410834-qk2uio</guid>
+      <pubDate>Tue, 03 Mar 2026 12:20:10 GMT</pubDate>
+      <itunes:duration>1297</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/14/19/91/14199148-6152-6da6-3fa6-146cee70e5b9/mza_14127013869696397595.jpg/600x600bb.jpg" />
+      <itunes:author>Shared Security Podcast</itunes:author>
+    </item>
+    <item>
+      <title>[Iran-US Conflict] — BONUS: What does the Iran conflict mean for the global economy?</title>
+      <description>Roughly a quarter of the world&apos;s oil supply is at risk as the biggest military strike in decades unfolds in the Middle East. Rory Johnston is a geopolitical analyst who writes the Substack Commodity Context. He talks to Paul Haavardsrud about how this conflict play out for Canadian crude and the global economy.</description>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_COSTOFLIVING_P/media/costofliving/costofliving-wJb9iUro-20260301.mp3?ttag=season:7,episode:26" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772540410248-n1ii2f</guid>
+      <pubDate>Tue, 03 Mar 2026 12:20:10 GMT</pubDate>
+      <itunes:duration>599</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/cb/e2/39cbe2cf-1ee4-e3e6-9d93-15878ba14957/mza_16260822611120329405.jpg/600x600bb.jpg" />
+      <itunes:author>Cost of Living</itunes:author>
+    </item>
+    <item>
+      <title>[Iran-US Conflict] — What Is a War?</title>
+      <description>The Trump administration’s attacks on Venezuelan boats defy even the broadest interpretation of the president&apos;s war powers.
+
+ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/c80b603a-35e1-4531-9f82-ac7d54df004d/episodes/7afc26e5-e70f-4611-913c-07cd6fa9e2ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c80b603a-35e1-4531-9f82-ac7d54df004d&amp;awEpisodeId=7afc26e5-e70f-4611-913c-07cd6fa9e2ac&amp;feed=jZLi00b4" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772540409671-by41mx</guid>
+      <pubDate>Tue, 03 Mar 2026 12:20:09 GMT</pubDate>
+      <itunes:duration>2178</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3f/d5/24/3fd524dc-7825-1639-4b30-b5e97cb5d509/mza_8599492171491331308.jpg/600x600bb.jpg" />
+      <itunes:author>What Trump Can Teach Us About Con Law</itunes:author>
+    </item>
+    <item>
+      <title>[Iran-US Conflict] — Ep. 831 - Iran Attacked - Khamenei Dead</title>
+      <description>///-----SHOW DISCLAIMER-----///
+
+The views and opinions expressed on the American Perspective with Rick Thomas (AP) are those of the host(s) or guest(s) and do not necessarily reflect the official policy or position of any sponsor or affiliate company or organization. Any content provided by our host(s) or guest(s) are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
+
+The American Perspective with Rick Thomas (AP) is not and should not be considered as a &quot;news source&quot; even though topics discussed often includes current events and cites sources from both conventional and unconventional media sources. The views expressed are the individual&apos;s opinions only. While the AP content creator(s) strive for accu</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/pdcn.co/e/api.spreaker.com/download/episode/70369487/ep_831_iran_attacked_khamenei_dead.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772540409060-6eqro4</guid>
+      <pubDate>Tue, 03 Mar 2026 12:20:09 GMT</pubDate>
+      <itunes:duration>5396</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8f/86/5d/8f865d36-3f5d-58cd-28df-3f67f28ecbdc/mza_14404393729009431223.jpg/600x600bb.jpg" />
+      <itunes:author>American Perspective with Rick Thomas</itunes:author>
+    </item>
     <item>
       <title>[OpenClaw] — Is OpenClaw&apos;s Hype Real? Are AI Agents Replacing Jobs?</title>
       <description></description>

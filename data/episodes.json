@@ -1,5 +1,77 @@
 [
   {
+    "id": "tars-1772540412029-9zeskd",
+    "topic": "OpenClaw",
+    "title": "Is OpenClaw’s Hype Real? Are AI Agents Replacing Jobs? What’s the Anti-AI Thesis?",
+    "audioUrl": "https://media.transistor.fm/2e3dda9a/f729505d.mp3",
+    "description": "The Napkin Math duo is back with another episode. \nWe spend most of this one trying to make sense of AI agents, OpenClaw - the new kid on the block, and why this wave feels messier but more real than the last few. \nWe talk through hype vs reality, what agents can actually do today, and how work is quietly shifting from roles and seats to tasks and systems. We also discuss AI fluency levels, how people are using Claude Code in real marketing workflows, one-person companies, and end with the Anti-AI portfolio.\nTimestamps\n00:00 Intro\n01:15 OpenClaw & the agent breakout moment\n06:52 Hype vs. reality: shiny tools, boring winners\n09:45 The Dropbox lesson: abstraction beats raw tech\n12:43 AI agents, security & where this breaks\n19:07 AI vs SaaS, leverage & outcome-based work\n24:58 Are AI agents a",
+    "duration": "3949",
+    "fileSize": 0,
+    "originalPodcast": "Napkin Math",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/bf/61/66bf6163-6a64-f556-ef32-91a9a6730124/mza_6501086519230539462.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-03T12:20:12.029Z"
+  },
+  {
+    "id": "tars-1772540411470-ubzmb4",
+    "topic": "OpenClaw",
+    "title": "Moltbook 3:16 – DTNS Live 5113",
+    "audioUrl": "https://dtns.muffincdn.com/DTNS20260205.mp4",
+    "description": "We share our feelings about Moltbook, a Reddit-like site for AI agents from popular AI assistant platform OpenClaw. Komei asked what steps any of us have taken to make provisions for our accounts after we die. And the Information reports Nvidia will not be introducing any new GPUs in 2026. Is this the final nail in the coffin for the DIY PC enthusiast hobby?\n\n\nStarring Sarah Lane, Tom Merritt, Robb Dunewood, Len Peralta, Roger Chang, Joe.\n\n\nTo read the show notes click here!\n\n\nSupport the show on Patreon by becoming a supporter!",
+    "duration": "4178",
+    "fileSize": 0,
+    "originalPodcast": "Daily Tech News Show (VIDEO)",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/79/5d/f1795dac-54de-605e-69a0-a78a4c4df596/mza_8844913988741003044.png/600x600bb.jpg",
+    "addedAt": "2026-03-03T12:20:11.470Z"
+  },
+  {
+    "id": "tars-1772540410834-qk2uio",
+    "topic": "OpenClaw",
+    "title": "OpenClaw & Moltbook: AI Agents and Cybersecurity Risks",
+    "audioUrl": "https://traffic.libsyn.com/socialmediasec/Shared_Security_E419.mp3",
+    "description": "Autonomous AI assistants are hitting the mainstream — but at what cost? This week, we discuss the recent OpenClaw phenomenon (formerly Clawdbot/Moltbot), the security fiasco surrounding Moltbook’s exposed database, and the quirky yet concerning AI agent dating platform MoltMatch. We explore the privacy and cybersecurity implications of entrusting AI agents with sensitive access and how defenders should think about emerging agentic risks.\n\n** Links mentioned on the show **\n\n\n\nOpenClaw (a.k.a. Moltbot) is everywhere all at once, and a disaster waiting to happen\n\nhttps://garymarcus.substack.com/p/openclaw-aka-moltbot-is-everywhere\n\nExposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site\n\nhttps://www.404media.co/exposed-moltbook-database-let-anyone-take-control-of-any-ai-",
+    "duration": "1297",
+    "fileSize": 0,
+    "originalPodcast": "Shared Security Podcast",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/14/19/91/14199148-6152-6da6-3fa6-146cee70e5b9/mza_14127013869696397595.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-03T12:20:10.834Z"
+  },
+  {
+    "id": "tars-1772540410248-n1ii2f",
+    "topic": "Iran-US Conflict",
+    "title": "BONUS: What does the Iran conflict mean for the global economy?",
+    "audioUrl": "https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_COSTOFLIVING_P/media/costofliving/costofliving-wJb9iUro-20260301.mp3?ttag=season:7,episode:26",
+    "description": "Roughly a quarter of the world's oil supply is at risk as the biggest military strike in decades unfolds in the Middle East. Rory Johnston is a geopolitical analyst who writes the Substack Commodity Context. He talks to Paul Haavardsrud about how this conflict play out for Canadian crude and the global economy.",
+    "duration": "599",
+    "fileSize": 0,
+    "originalPodcast": "Cost of Living",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/cb/e2/39cbe2cf-1ee4-e3e6-9d93-15878ba14957/mza_16260822611120329405.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-03T12:20:10.248Z"
+  },
+  {
+    "id": "tars-1772540409671-by41mx",
+    "topic": "Iran-US Conflict",
+    "title": "What Is a War?",
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/c80b603a-35e1-4531-9f82-ac7d54df004d/episodes/7afc26e5-e70f-4611-913c-07cd6fa9e2ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c80b603a-35e1-4531-9f82-ac7d54df004d&awEpisodeId=7afc26e5-e70f-4611-913c-07cd6fa9e2ac&feed=jZLi00b4",
+    "description": "The Trump administration’s attacks on Venezuelan boats defy even the broadest interpretation of the president's war powers.\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+    "duration": "2178",
+    "fileSize": 0,
+    "originalPodcast": "What Trump Can Teach Us About Con Law",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3f/d5/24/3fd524dc-7825-1639-4b30-b5e97cb5d509/mza_8599492171491331308.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-03T12:20:09.671Z"
+  },
+  {
+    "id": "tars-1772540409060-6eqro4",
+    "topic": "Iran-US Conflict",
+    "title": "Ep. 831 - Iran Attacked - Khamenei Dead",
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdcn.co/e/api.spreaker.com/download/episode/70369487/ep_831_iran_attacked_khamenei_dead.mp3",
+    "description": "///-----SHOW DISCLAIMER-----///\n\nThe views and opinions expressed on the American Perspective with Rick Thomas (AP) are those of the host(s) or guest(s) and do not necessarily reflect the official policy or position of any sponsor or affiliate company or organization. Any content provided by our host(s) or guest(s) are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.\n\nThe American Perspective with Rick Thomas (AP) is not and should not be considered as a \"news source\" even though topics discussed often includes current events and cites sources from both conventional and unconventional media sources. The views expressed are the individual's opinions only. While the AP content creator(s) strive for accu",
+    "duration": "5396",
+    "fileSize": 0,
+    "originalPodcast": "American Perspective with Rick Thomas",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8f/86/5d/8f865d36-3f5d-58cd-28df-3f67f28ecbdc/mza_14404393729009431223.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-03T12:20:09.060Z"
+  },
+  {
     "id": "tars-1772533922326-dx5p2u",
     "topic": "OpenClaw",
     "title": "Is OpenClaw's Hype Real? Are AI Agents Replacing Jobs?",
