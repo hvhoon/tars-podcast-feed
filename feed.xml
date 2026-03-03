@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 18:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 10:32:02 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,66 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[OpenClaw] — Is OpenClaw&apos;s Hype Real? Are AI Agents Replacing Jobs?</title>
+      <description></description>
+      <enclosure url="https://media.transistor.fm/2e3dda9a/f729505d.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772533922326-dx5p2u</guid>
+      <pubDate>Tue, 03 Mar 2026 10:32:02 GMT</pubDate>
+      
+      
+      <itunes:author>Napkin Math</itunes:author>
+    </item>
+    <item>
+      <title>[OpenClaw] — Moltbook 3:16 - DTNS Live 5113</title>
+      <description></description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/6750e26d57aa3cdaf356e08b/e/698518bfa4984336137b8d4e/media.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772533922267-o4u6kn</guid>
+      <pubDate>Tue, 03 Mar 2026 10:32:02 GMT</pubDate>
+      
+      
+      <itunes:author>DTNS Live</itunes:author>
+    </item>
+    <item>
+      <title>[OpenClaw] — OpenClaw &amp; Moltbook: AI Agents and Cybersecurity Risks</title>
+      <description></description>
+      <enclosure url="https://traffic.libsyn.com/socialmediasec/Shared_Security_E419.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772533922207-beuxk6</guid>
+      <pubDate>Tue, 03 Mar 2026 10:32:02 GMT</pubDate>
+      
+      
+      <itunes:author>Shared Security Podcast</itunes:author>
+    </item>
+    <item>
+      <title>[Iran-US Conflict] — What does the Iran conflict mean for the global economy?</title>
+      <description></description>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_COSTOFLIVING_P/media/costofliving/costofliving-wJb9iUro-20260301.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772533871258-cvwqw1</guid>
+      <pubDate>Tue, 03 Mar 2026 10:31:11 GMT</pubDate>
+      
+      
+      <itunes:author>Cost of Living (CBC)</itunes:author>
+    </item>
+    <item>
+      <title>[Iran-US Conflict] — What Is a War? (Con Law Podcast)</title>
+      <description></description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/c80b603a-35e1-4531-9f82-ac7d54df004d/episodes/7afc26e5-e70f-4611-913c-07cd6fa9e2ac/audio/128/default.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772533871199-laqex8</guid>
+      <pubDate>Tue, 03 Mar 2026 10:31:11 GMT</pubDate>
+      
+      
+      <itunes:author>What Trump Can Teach Us About Con Law</itunes:author>
+    </item>
+    <item>
+      <title>[Iran-US Conflict] — Iran Attacked - Khamenei Dead (American Perspective)</title>
+      <description></description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/pdcn.co/e/api.spreaker.com/download/episode/70369487/ep_831_iran_attacked_khamenei_dead.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772533871138-f5aq2o</guid>
+      <pubDate>Tue, 03 Mar 2026 10:31:11 GMT</pubDate>
+      
+      
+      <itunes:author>American Perspective with Rick Thomas</itunes:author>
+    </item>
     <item>
       <title>[openclaw] — [openclaw] Podcast: OpenClaw is the first real “keyboard test” for agentic AI and most teams aren’t ready.</title>
       <description></description>

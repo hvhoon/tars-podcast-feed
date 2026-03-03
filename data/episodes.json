@@ -1,5 +1,77 @@
 [
   {
+    "id": "tars-1772533922326-dx5p2u",
+    "topic": "OpenClaw",
+    "title": "Is OpenClaw's Hype Real? Are AI Agents Replacing Jobs?",
+    "audioUrl": "https://media.transistor.fm/2e3dda9a/f729505d.mp3",
+    "description": "",
+    "duration": null,
+    "fileSize": 0,
+    "originalPodcast": "Napkin Math",
+    "imageUrl": "",
+    "addedAt": "2026-03-03T10:32:02.326Z"
+  },
+  {
+    "id": "tars-1772533922267-o4u6kn",
+    "topic": "OpenClaw",
+    "title": "Moltbook 3:16 - DTNS Live 5113",
+    "audioUrl": "https://sphinx.acast.com/p/open/s/6750e26d57aa3cdaf356e08b/e/698518bfa4984336137b8d4e/media.mp3",
+    "description": "",
+    "duration": null,
+    "fileSize": 0,
+    "originalPodcast": "DTNS Live",
+    "imageUrl": "",
+    "addedAt": "2026-03-03T10:32:02.267Z"
+  },
+  {
+    "id": "tars-1772533922207-beuxk6",
+    "topic": "OpenClaw",
+    "title": "OpenClaw & Moltbook: AI Agents and Cybersecurity Risks",
+    "audioUrl": "https://traffic.libsyn.com/socialmediasec/Shared_Security_E419.mp3",
+    "description": "",
+    "duration": null,
+    "fileSize": 0,
+    "originalPodcast": "Shared Security Podcast",
+    "imageUrl": "",
+    "addedAt": "2026-03-03T10:32:02.207Z"
+  },
+  {
+    "id": "tars-1772533871258-cvwqw1",
+    "topic": "Iran-US Conflict",
+    "title": "What does the Iran conflict mean for the global economy?",
+    "audioUrl": "https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_COSTOFLIVING_P/media/costofliving/costofliving-wJb9iUro-20260301.mp3",
+    "description": "",
+    "duration": null,
+    "fileSize": 0,
+    "originalPodcast": "Cost of Living (CBC)",
+    "imageUrl": "",
+    "addedAt": "2026-03-03T10:31:11.258Z"
+  },
+  {
+    "id": "tars-1772533871199-laqex8",
+    "topic": "Iran-US Conflict",
+    "title": "What Is a War? (Con Law Podcast)",
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/c80b603a-35e1-4531-9f82-ac7d54df004d/episodes/7afc26e5-e70f-4611-913c-07cd6fa9e2ac/audio/128/default.mp3",
+    "description": "",
+    "duration": null,
+    "fileSize": 0,
+    "originalPodcast": "What Trump Can Teach Us About Con Law",
+    "imageUrl": "",
+    "addedAt": "2026-03-03T10:31:11.199Z"
+  },
+  {
+    "id": "tars-1772533871138-f5aq2o",
+    "topic": "Iran-US Conflict",
+    "title": "Iran Attacked - Khamenei Dead (American Perspective)",
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdcn.co/e/api.spreaker.com/download/episode/70369487/ep_831_iran_attacked_khamenei_dead.mp3",
+    "description": "",
+    "duration": null,
+    "fileSize": 0,
+    "originalPodcast": "American Perspective with Rick Thomas",
+    "imageUrl": "",
+    "addedAt": "2026-03-03T10:31:11.138Z"
+  },
+  {
     "id": "tars-1772461804238-qefq10",
     "topic": "openclaw",
     "title": "[openclaw] Podcast: OpenClaw is the first real “keyboard test” for agentic AI and most teams aren’t ready.",
