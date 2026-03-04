@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 17:26:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 17:27:00 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — U.S.-Iran Conflict, Part 2: The Iranian model of asymmetric warfare</title>
+      <description>A big part of America&apos;s fear of Iran arises from the idea that Iran sponsors various militant groups in the region, Hezbollah being a prominent example.</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/THGU2761235011.mp3?updated=1648747675" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772645220641-6yxswy</guid>
+      <pubDate>Wed, 04 Mar 2026 17:27:00 GMT</pubDate>
+      <itunes:duration>1613</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/20/16/9f/20169ff8-da20-1417-b7d6-66f872d3e6a6/mza_6630477422488501619.jpg/600x600bb.jpg" />
+      <itunes:author>In Focus by The Hindu</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — Capt. Matt Hoh : Is U.S. Military Policy Being Driven by Israel?</title>
       <description>Capt. Matt Hoh : Is U.S. Military Policy Being Driven by Israel?\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
