@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 17:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 17:55:44 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — Wargaming WW3: how and where the next global conflict could actually unfold</title>
+      <description>From Taiwan to Estonia and Latvia, the prospect of World War Three feels closer than ever - that is unless you&apos;re one of those people who thinks it&apos;s already begun.\nPeter Apps, Reuters&apos; Global Defence Commentator, is not one of those people, but he does</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/6583019ebbd71a00175001c8/e/69526e9830165a956d865d63/media.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772646944270-9sjo09</guid>
+      <pubDate>Wed, 04 Mar 2026 17:55:44 GMT</pubDate>
+      <itunes:duration>2839</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/e3/b7/6ae3b7b1-42c2-1254-1d49-0abfb784948c/mza_1654359608757664731.jpeg/600x600bb.jpg" />
+      <itunes:author>Iran: The Latest</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — EI Weekly Listen — Kimberly Kagan on the United States and the new way of war</title>
       <description>The United States, still the dominant military power in the world, is immersed in a new era of warfare that it has not yet recognised as endemic and enduring. America is losing its wars to less powerful but more adaptable adversaries, while preparing inadequately for future inter-state conflicts. Re</description>
