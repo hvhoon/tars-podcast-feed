@@ -135,7 +135,7 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
       return {
         title: title,
         audioUrl: encMatch[1],
-        description: descMatch ? descMatch[1].replace(/<[^>]+>/g, '').trim().slice(0, 500) : '',
+        description: descMatch ? descMatch[1].replace(/<[^>]+>/g, '').trim() : '',
         duration: durationMatch ? durationMatch[1].trim() : null,
         fileSize: lengthMatch ? parseInt(lengthMatch[1]) : 0,
         pubDate: pubDateMatch ? pubDateMatch[1].trim() : null,
