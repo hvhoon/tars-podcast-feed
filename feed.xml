@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 20:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 20:20:22 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[openclaw] — Takes On Talent: AI Hype, What Is Moltbook, and Is Something BIG Happening?</title>
+      <description>In this episode, Oz Rashid breaks down the accelerating AI race, recent executive shakeups at major AI labs, and what it all means for business leaders and the workforce.\n\nHe explores the difference between AI hype and enterprise reality, the “Februar</description>
+      <enclosure url="https://audio-delivery.cohostpodcasting.com/audio/08d2ad78-6b13-4865-8df7-ed5cb40fe0ba/episodes/acb58b5a-3c73-4b2d-b66e-b02fa3804076/episode.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772655622893-iqmx7u</guid>
+      <pubDate>Wed, 04 Mar 2026 20:20:22 GMT</pubDate>
+      <itunes:duration>2114</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/13/70/f31370a8-ee6d-3cc5-b765-aa6f0bbf7833/mza_5793419647680057271.jpg/600x600bb.jpg" />
+      <itunes:author>Hire Learning with Oz Rashid</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — The Red Sea in the eye of a geopolitical storm: proxy wars, maritime strategy and trade</title>
       <description>The Red Sea has become the centre of a geopolitical crisis. How to secure one of the world’s most crowded trade routes? With, amongst others, NATO-Chief of Staff Geoffrey van Leeuwen we speak about proxy wars, maritime strategy and trade.\nEvery year,</description>
