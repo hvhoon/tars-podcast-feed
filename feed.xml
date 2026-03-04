@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 20:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 20:20:24 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[openclaw] — We built OpenClaw Ultron to replace 20 people at our company | E2246</title>
+      <description>This Week In Startups is made possible by:\n\nCrusoe Cloud - https://crusoe.ai/savings\n\nLemon IO - https://Lemon.io/twist\n\nNorthwest Registered Agent - https://www.northwestregisteredagent.com/twist\n\nThanks to our guests:\n\nAlex Cheema of ExoLabs http://ex</description>
+      <enclosure url="https://anchor.fm/s/7c624c84/podcast/play/115145965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-7%2F417625519-44100-2-81713b4676661.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772655624140-7qg83m</guid>
+      <pubDate>Wed, 04 Mar 2026 20:20:24 GMT</pubDate>
+      <itunes:duration>4251</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/bf/16/2dbf1621-a3e9-f82a-df8d-4f93a01849c5/mza_4950076580225197466.jpg/600x600bb.jpg" />
+      <itunes:author>This Week in Startups</itunes:author>
+    </item>
     <item>
       <title>[openclaw] — Takes On Talent: AI Hype, What Is Moltbook, and Is Something BIG Happening?</title>
       <description>In this episode, Oz Rashid breaks down the accelerating AI race, recent executive shakeups at major AI labs, and what it all means for business leaders and the workforce.\n\nHe explores the difference between AI hype and enterprise reality, the “Februar</description>
