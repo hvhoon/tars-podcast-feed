@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 12:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 16:42:32 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — Experts Feared a Wider War. It&apos;s Finally Here</title>
+      <description>We’re in a “history defining moment that will shape the Middle East for years to come.”</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/6961268923ce58f14615840d/a/whatnext-podcasts/e/1000671604170/media.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772642552455-jgig02</guid>
+      <pubDate>Wed, 04 Mar 2026 16:42:32 GMT</pubDate>
+      <itunes:duration>1534</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/aa/f4/4faaf4c0-544e-e93e-3ed2-1dd7165338de/mza_7009288452338146547.jpg/600x600bb.jpg" />
+      <itunes:author>What Next | Daily News and Analysis</itunes:author>
+    </item>
     <item>
       <title>[OpenClaw] — Is OpenClaw’s Hype Real? Are AI Agents Replacing Jobs? What’s the Anti-AI Thesis?</title>
       <description>The Napkin Math duo is back with another episode. 
