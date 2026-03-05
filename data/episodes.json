@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1772717177897-i10vmr",
+    "topic": "openclaw",
+    "title": "Hardware-level zero trust, don't trust AI with your employees, and the news - J Wolfgang Goerlich, Matias Katz - ESW #446",
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_446_1--1a74f6c2-b68e-48f0-bdaf-7599c2540636--audio-converted--14698bc4-71fe-4f62-b7fe-081dae594907.mp3?dest-id=376653",
+    "description": "Segment 1: Interview with Mathias Katz What if you had enterprise-grade network security protections traveling with your users' laptops? What if it could be built into the laptop, but still stay safe even if the laptop OS and firmware were entirely comp",
+    "duration": "6432",
+    "fileSize": 0,
+    "originalPodcast": "Enterprise Security Weekly",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/f8/d5/50f8d558-541e-4300-900b-93d7421458b1/mza_13980566490092096323.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-05T13:26:17.897Z"
+  },
+  {
     "id": "tars-1772655624140-7qg83m",
     "topic": "openclaw",
     "title": "We built OpenClaw Ultron to replace 20 people at our company | E2246",

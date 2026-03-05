@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 20:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 13:26:17 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[openclaw] — Hardware-level zero trust, don&apos;t trust AI with your employees, and the news - J Wolfgang Goerlich, Matias Katz - ESW #446</title>
+      <description>Segment 1: Interview with Mathias Katz What if you had enterprise-grade network security protections traveling with your users&apos; laptops? What if it could be built into the laptop, but still stay safe even if the laptop OS and firmware were entirely comp</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_446_1--1a74f6c2-b68e-48f0-bdaf-7599c2540636--audio-converted--14698bc4-71fe-4f62-b7fe-081dae594907.mp3?dest-id=376653" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772717177897-i10vmr</guid>
+      <pubDate>Thu, 05 Mar 2026 13:26:17 GMT</pubDate>
+      <itunes:duration>6432</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/f8/d5/50f8d558-541e-4300-900b-93d7421458b1/mza_13980566490092096323.jpg/600x600bb.jpg" />
+      <itunes:author>Enterprise Security Weekly</itunes:author>
+    </item>
     <item>
       <title>[openclaw] — We built OpenClaw Ultron to replace 20 people at our company | E2246</title>
       <description>This Week In Startups is made possible by:\n\nCrusoe Cloud - https://crusoe.ai/savings\n\nLemon IO - https://Lemon.io/twist\n\nNorthwest Registered Agent - https://www.northwestregisteredagent.com/twist\n\nThanks to our guests:\n\nAlex Cheema of ExoLabs http://ex</description>
