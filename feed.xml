@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 13:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 13:26:20 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[openclaw] — How OpenClaw&apos;s Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger</title>
+      <description>Peter is the creator of OpenClaw (formerly Molt - the name keeps changing 😅), the hottest AI right now with 2M visitors in a week. In our interview, Peter shared is personal favorite use cases including using Claw to check in to flights, control hi</description>
+      <enclosure url="https://anchor.fm/s/f38497cc/podcast/play/114758215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F417107575-44100-2-d7f0470d6ae79.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772717180600-rpfbqe</guid>
+      <pubDate>Thu, 05 Mar 2026 13:26:20 GMT</pubDate>
+      <itunes:duration>2263</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/9d/62/69/9d6269d1-ec6c-4686-16c2-20a117ef266c/mza_4869623135449196254.jpg/600x600bb.jpg" />
+      <itunes:author>Behind the Craft</itunes:author>
+    </item>
     <item>
       <title>[openclaw] — Hardware-level zero trust, don&apos;t trust AI with your employees, and the news - J Wolfgang Goerlich, Matias Katz - ESW #446</title>
       <description>Segment 1: Interview with Mathias Katz What if you had enterprise-grade network security protections traveling with your users&apos; laptops? What if it could be built into the laptop, but still stay safe even if the laptop OS and firmware were entirely comp</description>
