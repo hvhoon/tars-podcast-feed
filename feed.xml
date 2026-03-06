@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 13:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 13:07:59 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — Trump Predicts a Multi-Week War as Badly Wounded Iran Strikes Out at Neighbors, Conflict Widens</title>
+      <description>Tuesday, 3/3/26\n\nTODAY&apos;S TOPICS:\nHow is the operation going?\nBiggest operational risks for America and Israel.\nBiggest political risks for Team Trump.\nHow is the media doing?\nMAGA and the conflict.\nCongressional Democrats and the conflict.\n’28 Democra</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/prfx.byspotify.com/e/mgln.ai/e/796/traffic.megaphone.fm/GEMINIMEDIA4486096109.mp3?updated=1772551365" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772802479577-7taz6q</guid>
+      <pubDate>Fri, 06 Mar 2026 13:07:59 GMT</pubDate>
+      <itunes:duration>3787</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2f/3a/08/2f3a0855-f7b8-7a20-718f-0b0d515eeef7/mza_7327019416948294913.jpg/600x600bb.jpg" />
+      <itunes:author>The Morning Meeting</itunes:author>
+    </item>
     <item>
       <title>[openclaw] — How OpenClaw&apos;s Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger</title>
       <description>Peter is the creator of OpenClaw (formerly Molt - the name keeps changing 😅), the hottest AI right now with 2M visitors in a week. In our interview, Peter shared is personal favorite use cases including using Claw to check in to flights, control hi</description>
