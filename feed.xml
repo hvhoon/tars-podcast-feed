@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 13:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 13:08:04 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — 03.03.26 - Iran conflict: investment strategies for uncertainty</title>
+      <description>The headlines are moving fast, but this Market Sense special report will tackle the escalating conflict in Iran and what this new geopolitical risk could mean for the markets and the global economy.  Our Fidelity leaders discuss the impact on oil prices</description>
+      <enclosure url="https://pdst.fm/e/link.theplatform.com/s/qlVTIC/Dmu3SFZ_tRlQ/file.mp3?metafile=false&amp;feed=Fidelity%20Viewpoints%3A%20Market%20Sense" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772802484675-jh3pu0</guid>
+      <pubDate>Fri, 06 Mar 2026 13:08:04 GMT</pubDate>
+      <itunes:duration>1695</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/d8/09/9dd809fc-4fdb-90d4-e4a7-507d3c116c78/mza_11541653614504542700.jpg/600x600bb.jpg" />
+      <itunes:author>Fidelity Viewpoints: Market Sense</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — War Powers and the Road to Iran</title>
       <description>As the White House signals openness to escalation and murky and conflicting objectives, uncertainty clouds both the legal basis and strategic endgame of U.S. involvement in Iran. The Cato Institute&apos;s Justin Logan, Thomas Berry, and Brandan P. Buck exam</description>
