@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1772961732957-5b7agv",
+    "topic": "openclaw",
+    "title": "Episode 10: The Document & Memory Revolution (OpenClaw Daily, 32min)",
+    "audioUrl": "https://grayking-creator.github.io/openclaw-podcast/audio/episode_010_full.mp3",
+    "description": "OpenClaw March 3, 2026 release: PDF analysis tool with native model support, Ollama memory embeddings for full local memory stacks, SecretRef expansion to 64 targets, sessions attachments for inter-agent file passing, Telegram streaming defaults, MiniMa",
+    "duration": "1922",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw Daily",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/a6/41/a1a64174-f823-16d4-4eeb-3595342f856d/mza_10187382332820659610.png/600x600bb.jpg",
+    "addedAt": "2026-03-08T09:22:12.957Z"
+  },
+  {
     "id": "tars-1772961730460-md3wmq",
     "topic": "openclaw",
     "title": "OpenClaw: The Ultimate Rapid Prototyping Machine for the AI Era - #115",
