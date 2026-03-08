@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1772961730460-md3wmq",
+    "topic": "openclaw",
+    "title": "OpenClaw: The Ultimate Rapid Prototyping Machine for the AI Era - #115",
+    "audioUrl": "https://api.riverside.fm/hosting-analytics/media/cd7c2496e82c0b85054133bd1867b0d75b9f24df6c7cecaaf0d9288dffabe36e/eyJlcGlzb2RlSWQiOiJjMDdiMTMxNC0yN2ViLTQyYmQtYjJjMy1lYjUzZTY4NTQyNmIiLCJwb2RjYXN0SWQiOiJmMGE5MzQ1MS1iZTk0LTRkNGItOTVhNC02ZDRkZWE5MGJmYTciLCJhY2NvdW50SWQiOiI2OGYxNGJlYTI4YzZiNjdhMjI2YzBiODkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNjk5NTBiYTA1YWI0YzZjOWVkNGMyNjdlL2FpLWRyYW1hLWNvbXBvc2VyLTIwMjYtMi0xOF9fMS00NS0yMC5tcDMifQ==.mp3",
+    "description": "OpenClaw is not just another AI tool — it’s a fundamental shift in how companies build, automate, and operate.\\nIn this episode, Malcolm Werchota explains why we are entering the era of multi-agent systems and how OpenClaw enables businesses to proto",
+    "duration": "2198",
+    "fileSize": 0,
+    "originalPodcast": "The AI Cookbook: AI Tools | Enterprise AI | Leadership",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/df/2e/80df2efd-4ae8-33e2-b5fe-e6421f4b118d/mza_17058786395942902746.jpg/600x600bb.jpg",
+    "addedAt": "2026-03-08T09:22:10.460Z"
+  },
+  {
     "id": "tars-1772961727792-akbgs2",
     "topic": "openclaw",
     "title": "Special: Building a Distributed AI Cluster with exo-labs",
