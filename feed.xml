@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 19:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 01:54:28 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — Hegseth: U.S. “Just Getting Started” As Iran War Spreads</title>
+      <description>As America’s war widens, the administration ditches the speak softly while touting the big stick. Plus, a secret gamble. The US seeks to trigger an uprising in Iran. \nLearn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2079526890.mp3?updated=1772685416" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772934868597-61slnm</guid>
+      <pubDate>Sun, 08 Mar 2026 01:54:28 GMT</pubDate>
+      <itunes:duration>2731</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/4a/12/134a1277-b8a9-f109-81fb-95716874cefe/mza_60184705002588437.jpeg/600x600bb.jpg" />
+      <itunes:author>CNN NewsNight with Abby Phillip</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — Initial market &amp; economic implications of the U.S. conflict with Iran</title>
       <description>In this 136th episode of the On Investors&apos; Minds - APAC Edition podcast, Tai Hui provides an initial assessment of the impact post the U.S. and Israel air strikes on Iran (and its retaliatory actions) during the weekend of February 28th.  What people</description>
