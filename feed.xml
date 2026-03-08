@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 09:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:09:08 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — News - Iran War Widens, Afghanistan–Pakistan Fighting, New U.S. Operation in Ecuador</title>
+      <description>We don’t have whatever they were giving JFK to power through the Cuban Missile Crisis, but we’re keeping up here. This week’s news: in the Iran War, the U.S. prepares to use Kurdish proxy forces against the Islamic Republic (1:26) while offering s</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG4852657773.mp3?updated=1772763063" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1772960948818-l98qtn</guid>
+      <pubDate>Sun, 08 Mar 2026 09:09:08 GMT</pubDate>
+      <itunes:duration>3044</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/6b/89/8c6b8942-3922-d55a-56e5-e24335ad0fd7/mza_15890007287061730577.jpg/600x600bb.jpg" />
+      <itunes:author>American Prestige</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — U.S. Striking “Deeper” Into Iran As War Spreads Across Mideast</title>
       <description>Kasie Hunt talks to the panel as the U.S. says it will strike ‘deeper’ into Iran. Rep. Pat Ryan reacts after Secretary Hegseth suggested that prominent media coverage of service member casualties is meant to “make the president look bad.&quot; The Stat</description>
