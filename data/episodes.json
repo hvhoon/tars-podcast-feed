@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1773047943772-zyec9i",
+    "topic": "openclaw",
+    "title": "Episode 6: The v2026.2.24 Update & Bot Social Networks",
+    "audioUrl": "https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/audio/episode_006.mp3",
+    "description": "Episode 6 covers the massive OpenClaw v2026.2.24 release with its new 5-tab Android shell and security hardening, the v2026.2.23 SSRF policy shift, the origins of the Molty mascot and the Lobster Way culture, Moltbook — a social network built by bots",
+    "duration": "2629",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw Daily",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/27/a8/8227a886-8375-2390-bf29-b2e264ecfe2a/mza_11001974639221871134.png/600x600bb.jpg",
+    "addedAt": "2026-03-09T09:19:03.772Z"
+  },
+  {
     "id": "tars-1773047941278-8qhfhh",
     "topic": "openclaw",
     "title": "#491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",
