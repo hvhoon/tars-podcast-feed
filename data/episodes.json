@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1773047933710-3mvekl",
+    "topic": "openclaw",
+    "title": "Special: Building a Distributed AI Cluster with exo-labs",
+    "audioUrl": "https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/exo_cluster_podcast.mp3",
+    "description": "A deep-dive special episode on building a distributed AI inference cluster using exo-labs and Apple Silicon. Nova and Alloy cover everything from installation and RDMA networking to model selection, daemonization, and an honest verdict on who should act",
+    "duration": "2834",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw Daily",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f7/b1/20/f7b120e2-6d98-972c-23bc-e13af441e1b1/mza_10721937880210968493.png/600x600bb.jpg",
+    "addedAt": "2026-03-09T09:18:53.710Z"
+  },
+  {
     "id": "tars-1773047079678-poum9c",
     "topic": "iran-war",
     "title": "Escalations in the Conflict Between Israel and Iran, Steven Nekhaila on U.S. Global Strategy, No Kings Update & Rep. Nick LaLota Takes on Dark Money Attacks",
