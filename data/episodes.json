@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1773047936155-yxfnjn",
+    "topic": "openclaw",
+    "title": "Episode 9: OpenClaw v2026.3.1 — When Your Assistant Starts Acting Like Infrastructure",
+    "audioUrl": "https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/audio/episode_009.mp3",
+    "description": "Episode 9 of OpenClaw Daily covers OpenClaw v2026.3.1 — a reliability and infrastructure release: Discord thread session lifecycles, Telegram DM topics, Android node notification actions + device health, health/readiness probes, WebSocket-first stream",
+    "duration": "1976",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw Daily",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f7/b1/20/f7b120e2-6d98-972c-23bc-e13af441e1b1/mza_10721937880210968493.png/600x600bb.jpg",
+    "addedAt": "2026-03-09T09:18:56.155Z"
+  },
+  {
     "id": "tars-1773047933710-3mvekl",
     "topic": "openclaw",
     "title": "Special: Building a Distributed AI Cluster with exo-labs",
