@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 19:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 23:58:01 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>[iran-war] — Iran Crisis Explodes: Allies Turn Away, Top Official Quits</title>
+      <description>A major shakeup hits Donald’s administration as National Counterterrorism Center Director Joe Kent resigns warning there was no imminent threat from Iran. His statement, Donald’s response, and growing internal dissent, along with his Oval Office meeting with Irish Prime Minister Micheál Martin, the GOP’s SAVE America Act push, and the subpoena of Attorney General Pam Bondi over the Epstein files are all examined. Mary Trump Live Tuesday March 17th! Please send comments/questions info@marytrumpme</description>
+      <enclosure url="https://shows.acast.com/the-mary-trump-podcast/episodes/69b9ccc2073190d04a9f7f51" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1773964681139-bmrk1x</guid>
+      <pubDate>Thu, 19 Mar 2026 23:58:01 GMT</pubDate>
+      
+      
+      <itunes:author>The Mary Trump Podcast</itunes:author>
+    </item>
     <item>
       <title>[iran-war] — Netanyahu Says “This Is What I Promised” For 40 Years &amp; Iran Refuses Trump’s Offered Ceasefire</title>
       <description>Welcome to The Daily Wrap Up, an in-depth investigatory show dedicated to bringing you the most relevant independent news, as we see it, from the last 24 hours (3/1/26).\nAs always, take the information discussed in the video below and research it for yo</description>
