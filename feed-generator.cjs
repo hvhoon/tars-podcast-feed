@@ -139,6 +139,7 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
     
     if (title.toLowerCase().includes(searchLower)) {
       const encMatch = item.match(/<enclosure[^>]*url=["']([^"']+)["'][^>]*>/i);
+      const contentMatch = item.match(/<content:encoded>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/content:encoded>/i);
       const descMatch = item.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i);
       const durationMatch = item.match(/<itunes:duration>([\s\S]*?)<\/itunes:duration>/i);
       const lengthMatch = item.match(/<enclosure[^>]*length=["'](\d+)["'][^>]*>/i);
@@ -151,7 +152,7 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
       return {
         title: title,
         audioUrl: encMatch[1],
-        description: descMatch ? descMatch[1].replace(/<[^>]+>/g, '').trim() : '',
+        description: (contentMatch ? contentMatch[1] : descMatch ? descMatch[1] : '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim(),
         duration: durationMatch ? durationMatch[1].trim() : null,
         fileSize: lengthMatch ? parseInt(lengthMatch[1]) : 0,
         pubDate: pubDateMatch ? pubDateMatch[1].trim() : null,
