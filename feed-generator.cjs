@@ -65,7 +65,16 @@ function buildFeed(episodes) {
   const now = formatRFC2822(new Date());
   
   const items = episodes.map(ep => {
-    const title = `[${ep.topic}] — ${ep.title}`;
+    let title;
+    if (ep.topic === 'Pulse Daily') {
+      // Daily updates: "Daily Update - Saturday, March 21, 2026"
+      const dateStr = ep.title.replace(/^Pulse Daily\s*[—–-]\s*/, '') || 
+        new Date(ep.addedAt).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+      title = `Daily Update - ${dateStr}`;
+    } else {
+      // Podcast episodes: use original title as-is
+      title = ep.title;
+    }
     const guid = ep.id || `pulse-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
     
     return `    <item>
@@ -113,6 +122,13 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
   if (!res.ok) throw new Error(`Failed to fetch feed: ${res.status}`);
   const xml = await res.text();
   
+  // Extract channel-level metadata (fallback for per-episode)
+  const channelBlock = xml.match(/<channel[\s\S]*?(?=<item)/i)?.[0] || '';
+  const channelImageMatch = channelBlock.match(/<itunes:image[^>]*href=["']([^"']+)["']/i);
+  const channelAuthorMatch = channelBlock.match(/<itunes:author>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/itunes:author>/i);
+  const channelImage = channelImageMatch ? channelImageMatch[1] : '';
+  const channelAuthor = channelAuthorMatch ? channelAuthorMatch[1].trim() : '';
+  
   // Simple XML parsing for podcast feeds
   const items = xml.match(/<item[\s\S]*?<\/item>/gi) || [];
   const searchLower = episodeSearch.toLowerCase();
@@ -140,6 +156,8 @@ async function fetchEpisodeFromFeed(feedUrl, episodeSearch) {
         fileSize: lengthMatch ? parseInt(lengthMatch[1]) : 0,
         pubDate: pubDateMatch ? pubDateMatch[1].trim() : null,
         imageUrl: imageMatch ? imageMatch[1] : '',
+        channelImage,
+        channelAuthor,
       };
     }
   }
@@ -168,8 +186,9 @@ async function cmdAdd(args) {
       description: fetched.description,
       duration: fetched.duration,
       fileSize: fetched.fileSize,
-      originalPodcast: args.podcast || null,
+      originalPodcast: args.podcast || fetched.channelAuthor || null,
       originalFeedUrl: args.feedUrl,
+      imageUrl: fetched.imageUrl || fetched.channelImage || '',
       addedAt: new Date().toISOString(),
     };
   } else if (args.audioUrl && args.title) {
