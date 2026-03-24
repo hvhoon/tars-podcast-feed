@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 18:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 18:56:23 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,26 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>The Strait of Hormuz and Kharg Island: How America Intends to Win This War</title>
+      <description>All eyes are on the Strait of Hormuz and Kharg Island as the United States and its allies struggle to wrest full control of the Arabo-Persian Gulf from the Islamic Republic of Iran. Aimen and Thomas lay out the whole story of this geostrategically vital region, from ancient times all the way up to this very morning—explaining why this war is happening, and how it is almost certainly to end. Aimen and Thomas discuss: How the Strait of Hormuz caused Noah&apos;s Flood The medieval Kingdom of Hormuz How the Gulf is always caught up in the Iranian plateau&apos;s endless boom-and-bust political cycle How Europeans staked a claim on Hormuz in 1507—and never really left The fact that the U.S. did indeed go into this war with a plan for Hormuz How the U.S. will take Kharg Island—and what they will do with it The ingenuity of Gulf Arab leadership in planning workarounds for the eventuality of the Strait being closed How European powers and other allies are really contributing to the war effort Join the Conflicted Community here: ⁠⁠⁠https://conflicted.supportingcast.fm/⁠⁠⁠ Find us on X: ⁠⁠⁠https://x.com/MHconflicted⁠⁠⁠ And Facebook: ⁠⁠⁠https://www.facebook.com/MHconflicted⁠⁠⁠ And Instagram: ⁠⁠⁠https://www.instagram.com/conflictedpod⁠⁠⁠ Learn more about your ad choices. Visit ⁠⁠⁠megaphone.fm/adchoices⁠⁠⁠ Conflicted is a Message Heard production. Executive Producers: Jake Warren &amp; Max Warren. Produced and edited by Thomas Small. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7586202126.mp3?updated=1773782022" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1774378583496-6v51f4</guid>
+      <pubDate>Tue, 24 Mar 2026 18:56:23 GMT</pubDate>
+      <itunes:duration>5520</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/bba8d11e-0649-11ec-8d22-770be5ae236a/image/b2fc62312e209b7a5962447bc2c27270.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <itunes:author>CONFLICTED</itunes:author>
+    </item>
+    <item>
+      <title>Europe&apos;s jet fuel prices rally to record highs on Persian Gulf shut-in</title>
+      <description>Benchmark jet fuel assessments by Platts have reached all-time highs on the back of war in the Middle East. With vital middle distillate supplies locked in the Persian Gulf owing to the effective closure of the Strait of Hormuz, the knock-on impact for both physical and financial refined products markets in Europe has been unprecedented. In this episode of the Platts Oil Markets podcast, Gary Clark, Associate Director for EMEA Clean Refined Products, is joined by frontline reporters Aruni Sunil and Patrick McAllister to discuss the latest dynamics in the European jet fuel market.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/globaloil/031926-Europes_jet_fuel_prices_rally_to_record_highs_on_Persian_Gulf_shut-in.mp3?dest-id=1681175" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1774378579644-edtg85</guid>
+      <pubDate>Tue, 24 Mar 2026 18:56:19 GMT</pubDate>
+      <itunes:duration>840</itunes:duration>
+      <itunes:image href="https://static.libsyn.com/p/assets/1/9/a/d/19ad0ae33106dfced959afa2a1bf1c87/SPGI-Enterprise-2656260_Podcast_Cover_Oil_Markets-2_2000x2000.png" />
+      <itunes:author>Oil Markets</itunes:author>
+    </item>
     <item>
       <title>Iran’s war machine can only last a few more weeks: Expert</title>
       <description></description>
