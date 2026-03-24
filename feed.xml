@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 09:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 18:34:03 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Iran’s war machine can only last a few more weeks: Expert</title>
+      <description></description>
+      <enclosure url="https://omny.fm/shows/asian-insider-1/iran-s-regime-can-only-last-a-few-more-weeks-expert" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1774376303265-jfl6s4</guid>
+      <pubDate>Tue, 24 Mar 2026 18:18:23 GMT</pubDate>
+      
+      
+      <itunes:author>The Straits Times Podcasts</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, March 24, 2026</title>
       <description>Iran-US Conflict: Tehran has officially shuttered diplomatic channels and threatened to choke global oil transit through the Strait of Hormuz, deepening the standoff with Washington. | OpenClaw: OpenClaw faces an existential crossroads as high-end orchestration features clash with mounting security warnings and the threat of native AI integration.</description>
@@ -640,25 +650,6 @@ Timestamps
       <itunes:author>Napkin Math</itunes:author>
     </item>
     <item>
-      <title>Moltbook 3:16 – DTNS Live 5113</title>
-      <description>We share our feelings about Moltbook, a Reddit-like site for AI agents from popular AI assistant platform OpenClaw. Komei asked what steps any of us have taken to make provisions for our accounts after we die. And the Information reports Nvidia will not be introducing any new GPUs in 2026. Is this the final nail in the coffin for the DIY PC enthusiast hobby?
-
-
-Starring Sarah Lane, Tom Merritt, Robb Dunewood, Len Peralta, Roger Chang, Joe.
-
-
-To read the show notes click here!
-
-
-Support the show on Patreon by becoming a supporter!</description>
-      <enclosure url="https://dtns.muffincdn.com/DTNS20260205.mp4" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">tars-1772540411470-ubzmb4</guid>
-      <pubDate>Tue, 03 Mar 2026 12:20:11 GMT</pubDate>
-      <itunes:duration>4178</itunes:duration>
-      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/79/5d/f1795dac-54de-605e-69a0-a78a4c4df596/mza_8844913988741003044.png/600x600bb.jpg" />
-      <itunes:author>Daily Tech News Show (VIDEO)</itunes:author>
-    </item>
-    <item>
       <title>OpenClaw &amp; Moltbook: AI Agents and Cybersecurity Risks</title>
       <description>Autonomous AI assistants are hitting the mainstream — but at what cost? This week, we discuss the recent OpenClaw phenomenon (formerly Clawdbot/Moltbot), the security fiasco surrounding Moltbook’s exposed database, and the quirky yet concerning AI agent dating platform MoltMatch. We explore the privacy and cybersecurity implications of entrusting AI agents with sensitive access and how defenders should think about emerging agentic risks.
 
@@ -775,26 +766,6 @@ The American Perspective with Rick Thomas (AP) is not and should not be consider
       
       
       <itunes:author>American Perspective with Rick Thomas</itunes:author>
-    </item>
-    <item>
-      <title>[openclaw] Podcast: OpenClaw is the first real “keyboard test” for agentic AI and most teams aren’t ready.</title>
-      <description></description>
-      <enclosure url="https://drstorm.substack.com/p/podcast-openclaw-is-the-first-real" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">tars-1772461804238-qefq10</guid>
-      <pubDate>Mon, 02 Mar 2026 14:30:04 GMT</pubDate>
-      
-      
-      <itunes:author>drstorm.substack.com</itunes:author>
-    </item>
-    <item>
-      <title>[openclaw] The OpenClaw-ification of AI - The AI Daily Brief</title>
-      <description></description>
-      <enclosure url="https://podcasts.apple.com/au/podcast/the-openclaw-ification-of-ai/id1680633614?i=1000751828664" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">tars-1772461801681-zvi0sk</guid>
-      <pubDate>Mon, 02 Mar 2026 14:30:01 GMT</pubDate>
-      
-      
-      <itunes:author>The AI Daily Brief</itunes:author>
     </item>
     <item>
       <title>Iran’s leadership, retaliation, travel and oil disruption and Trump’s plan</title>
