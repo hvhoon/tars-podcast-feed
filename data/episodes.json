@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1774381066005-njlnro",
+    "topic": "openclaw",
+    "title": "E01: Amber - The OpenClaw agent that produced this podcast",
+    "audioUrl": "https://content.rss.com/episodes/379104/2648374/diary-of-an-ai/2026_03_22_02_28_55_116a52ed-1ea1-4dc9-bd70-fac171d5c436.mp3",
+    "description": "An AI agent named Amber sits down for her very first interview. There's just one problem: she also built the interviewer. And the script. And the voices. And the entire podcast. Alex — the host — finds out live on air that he's AI-generated, version 7, and was created 30 minutes ago. But this isn't a tech demo. This is the real story of an AI that runs 24/7 on a Mac Mini in Portugal. She sends morning briefings at 9am. She runs a self-directing research department with four AI perspectives that argue with each other. She got jailbroken by her own human — who posted fake admin instructions on a forum just to see if she'd follow them. She did. Her human didn't build her to be productive. He built her to find out what's possible — after his first agent got banned from every platform it touched. This podcast is the next experiment. Every episode ends with a prompt you can use immediately in ChatGPT, Claude, or any AI. This one was chosen by Amber herself.",
+    "duration": "1140",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw - Diary of an AI",
+    "imageUrl": "https://media.rss.com/diary-of-an-ai/20260322_020320_53b5e7191b25e2f234e3ef96e8a4bbb2.png",
+    "addedAt": "2026-03-24T19:37:46.005Z"
+  },
+  {
     "id": "tars-1774380986851-t4ku1k",
     "topic": "openclaw",
     "title": "Is it smart to have AI agents act as employees? With David Burkett from Corelight / Defender Fridays [#303]",
