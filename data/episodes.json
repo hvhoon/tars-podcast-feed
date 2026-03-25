@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1774429486056-6cou19",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Wednesday, March 25, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_march_25_2026.mp3",
+    "description": "Iran-US Conflict: Iran has rejected all diplomatic overtures, instead choosing to extort global trade and threaten energy infrastructure as the conflict in the Strait of Hormuz escalates. | OpenClaw: Anthropic's native computer control renders OpenClaw's insecure wrappers obsolete, forcing a reckoning over the safety risks of high-privilege agent deployments.",
+    "duration": "230",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-03-25T09:04:46.056Z"
+  },
+  {
     "id": "tars-1774381066005-njlnro",
     "topic": "openclaw",
     "title": "E01: Amber - The OpenClaw agent that produced this podcast",
