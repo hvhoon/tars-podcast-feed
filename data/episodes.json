@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1774447350712-gsp7kb",
+    "topic": "openclaw",
+    "title": "Episode 15: Remember Me: How We Built a Real Memory System for an AI Assistant",
+    "audioUrl": "https://op3.dev/e/https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/audio/episode_015.mp3",
+    "description": "Most AI assistants forget everything the moment a session resets. In this episode, ARIA walks through why that happens and what a real fix actually looks like: a local-first memory stack built on Mem0, Qdrant, and sentence-transformers with an OpenAI-compatible embeddings endpoint. Topics include why cloud memory fails, how hybrid semantic and lexical retrieval works, and the operational decisions that made the system reliable enough to run daily. 50 minutes.",
+    "duration": "3000",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw Daily",
+    "imageUrl": "https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/episode_007_cover.png",
+    "addedAt": "2026-03-25T14:02:30.712Z"
+  },
+  {
     "id": "tars-1774447323756-lguyaf",
     "topic": "iran-war",
     "title": "‘Iran thinks it’s winning’: can US peace talks in Pakistan really end the war?",
