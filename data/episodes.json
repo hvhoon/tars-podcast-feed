@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1774444260079-ct8met",
+    "topic": "openclaw",
+    "title": "Episode 14: The Acquisition of Everything",
+    "audioUrl": "https://op3.dev/e/https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/episode_014.mp3",
+    "description": "OpenAI buys Astral — the team behind uv, ruff, and the modern Python toolchain. OpenCode emerges as the open-source counterpunch. WordPress adds MCP support, turning the web into a writable surface for agents. Cursor rolls out multi-model inference routing and Kimi K2.5 lands as a serious open-weights alternative. Meta auto-scales moderation with AI judgment at planetary scale. Nova and Alloy track one story told five ways: the fight is moving from flashy demos to control of the infrastructure underneath them. 33 minutes. Show notes: https://tobyonfitnesstech.com/podcasts/episode-14/",
+    "duration": "1980",
+    "fileSize": 0,
+    "originalPodcast": "OpenClaw Daily",
+    "imageUrl": "https://clawdassistant85-netizen.github.io/openclaw-podcast-audio/episode_007_cover.png",
+    "addedAt": "2026-03-25T13:11:00.079Z"
+  },
+  {
     "id": "tars-1774429486056-6cou19",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Wednesday, March 25, 2026",
