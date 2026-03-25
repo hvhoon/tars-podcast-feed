@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 13:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:32:55 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>The Iran War is a Global financial Crisis | China Doesn&apos;t Want Hegemony | Joe Kent&apos;s Resignation | Ep. 292</title>
+      <description>Why the Iran war is creating a global financial crisis. Why China doesn&apos;t want global hegemony, but if it did, now is the best time imaginable. Signs of American hegemonic decline. And Joe Kent&apos;s resignation from the Trump administration and how to read it in light of anti-semitism. Van Jackson and Matt Duss chopping up all that and more in this episode. Subscribe to the Un-Diplomatic Newsletter: https://www.un-diplomatic.com/ Watch Un-Diplomatic Podcast on YouTube: https://www.youtube.com/@un-diplomaticpodcast Disclaimer: The views expressed are those of the individuals and not of any institutions.</description>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/63f81d6c-6862-4381-9e07-c9c8d20de907/284f418a-58c6-41f7-92b9-408565487369/episodes/audio/group/6a737e1d-d67a-47f5-a2fa-a9a569c42378/group-item/f83d9926-0c58-4901-88a5-90af83702816/128_default_tc.mp3?aid=rss_feed&amp;feed=2cd8WWLc" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1774445575177-g64ro0</guid>
+      <pubDate>Wed, 25 Mar 2026 13:32:55 GMT</pubDate>
+      <itunes:duration>1860</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/d980016a-09a3-4544-a26a-b4f94e2fd242/e0895f71-d609-49d2-b568-57ef0fe31b78/3000x3000/square-20podcast-20cover.jpg?aid=rss_feed" />
+      <itunes:author>The Un-Diplomatic Podcast</itunes:author>
+    </item>
     <item>
       <title>Axis of Empire: The History of Iran-American Relations w/ Prof. Afshin Matin-Asgari (G&amp;R 476)</title>
       <description></description>
