@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1774516199712-7x2nms",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Thursday, March 26, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_thursday_march_26_2026.mp3",
+    "description": "Iran-US Conflict: U.S. military reach shrinks as key allies deny access for potential operations against Iran. | OpenClaw: While Google’s OAuth blockade cripples current integrations, OpenClaw is pivoting toward a decentralized future of autonomous, swarm-based agent intelligence.",
+    "duration": "152",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-03-26T09:09:59.712Z"
+  },
+  {
     "id": "tars-1774447350712-gsp7kb",
     "topic": "openclaw",
     "title": "Episode 15: Remember Me: How We Built a Real Memory System for an AI Assistant",
