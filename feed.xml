@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 18:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:01:22 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>NVIDIA&apos;s AI Engineers: Agent Inference at Planetary Scale and &quot;Speed of Light&quot; — Nader Khalil (Brev), Kyle Kranen (Dynamo)</title>
+      <description>Join Kyle, Nader, Vibhu, and swyx live at NVIDIA GTC next week!\nNow that AIE Europe tix are ~sold out, our attention turns to Miami and World’s Fair!\nThe definitive AI Accelerator chip company has more than 10xed this AI Summer:\nAnd is now a .4 tril</description>
+      <enclosure url="https://api.substack.com/feed/podcast/190477229/547dbb1e74e5465c243c3af0599b15cd.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1775152882180-prirww</guid>
+      <pubDate>Thu, 02 Apr 2026 18:01:22 GMT</pubDate>
+      <itunes:duration>5017</itunes:duration>
+      <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/c3/b1/2dc3b1c6-2170-e926-04d0-0aaabf848eff/mza_2266632206147105925.jpg/600x600bb.jpg" />
+      <itunes:author>Latent Space: The AI Engineer Podcast</itunes:author>
+    </item>
     <item>
       <title>Kubernetes, Compliance, and Control: The Operational Backbone of AI Sovereignty</title>
       <description>Summary \nIn this episode of the AI Engineering Podcast, Steven Watt, leader of the Office of the CTO at Red Hat, discusses practical paths to achieving AI sovereignty for organizations. He shares his two-decade experience in AI, highlighting how govern</description>
