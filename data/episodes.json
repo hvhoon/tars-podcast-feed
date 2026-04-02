@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775152875937-o0nvwd",
+    "topic": "ai-engineering",
+    "title": "MCP as the API for AI‑Native Systems: Security, Orchestration, and Scale",
+    "audioUrl": "https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/639014434225416817cc74d7f8-1b7d-49c8-97e5-0870f4c9c664.mp3",
+    "description": "Summary \\nIn this episode Craig McLuckie, co-creator of Kubernetes and founder/CEO of Stacklok, talks about how to improve security and reliability for AI agents using curated, optimized deployments of the Model Context Protocol (MCP). Craig explains wh",
+    "duration": "4063",
+    "fileSize": 0,
+    "originalPodcast": "AI Engineering Podcast",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/b4/95/92b4951e-1a4b-c0a2-f6e7-4699971f054a/mza_3155447367129804673.jpg/600x600bb.jpg",
+    "addedAt": "2026-04-02T18:01:15.937Z"
+  },
+  {
     "id": "tars-1775152873503-ge69rt",
     "topic": "ai-engineering",
     "title": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo (Facebook VP, Sundial CEO, The Making of a Manager author)",
