@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775153031477-83oo5b",
+    "topic": "healthtech",
+    "title": "#408 First Look: Open AI cuts diagnostic errors by 16%. Or does it?",
+    "audioUrl": "https://anchor.fm/s/10dd7ab50/podcast/play/113925737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-13%2F416027612-44100-1-536736299586267c.mp3",
+    "description": "When OpenAI and Penda Health dropped a preprint claiming their “AI Consult” tool cut diagnostic errors by 16% in Kenyan clinics, headlines lit up across healthtech. But veteran digital‑health researcher Dr Paul Wicks spotted the cracks.\\n00:00 Intr",
+    "duration": "3135",
+    "fileSize": 0,
+    "originalPodcast": "The Healthtech Podcast",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/ce/7f/edce7f23-1006-3d68-cdd0-50e6bdcea538/mza_14572362016401458736.jpg/600x600bb.jpg",
+    "addedAt": "2026-04-02T18:03:51.477Z"
+  },
+  {
     "id": "tars-1775152882180-prirww",
     "topic": "ai-engineering",
     "title": "NVIDIA's AI Engineers: Agent Inference at Planetary Scale and \"Speed of Light\" — Nader Khalil (Brev), Kyle Kranen (Dynamo)",
