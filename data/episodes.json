@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775152879676-ouv2t1",
+    "topic": "ai-engineering",
+    "title": "Kubernetes, Compliance, and Control: The Operational Backbone of AI Sovereignty",
+    "audioUrl": "https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6390757335959399973043fb99-1dfb-45ee-94be-be532e0166f8.mp3",
+    "description": "Summary \\nIn this episode of the AI Engineering Podcast, Steven Watt, leader of the Office of the CTO at Red Hat, discusses practical paths to achieving AI sovereignty for organizations. He shares his two-decade experience in AI, highlighting how govern",
+    "duration": "3676",
+    "fileSize": 0,
+    "originalPodcast": "AI Engineering Podcast",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/b4/95/92b4951e-1a4b-c0a2-f6e7-4699971f054a/mza_3155447367129804673.jpg/600x600bb.jpg",
+    "addedAt": "2026-04-02T18:01:19.676Z"
+  },
+  {
     "id": "tars-1775152875937-o0nvwd",
     "topic": "ai-engineering",
     "title": "MCP as the API for AI‑Native Systems: Security, Orchestration, and Scale",
