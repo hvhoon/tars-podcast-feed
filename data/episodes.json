@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775208565750-ri5zws",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Friday, April 3, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_friday_april_3_2026.mp3",
+    "description": "AI Engineering: Meta’s KernelEvolve and the arrival of git11 signal a new era of AI-native engineering, automating everything from infrastructure optimization to developer workflows. | AI Product Strategy: Enterprise AI success depends less on model power and more on the strategic restraint of curbing automation where unstructured data remains untamed. | Iran-US Conflict: Iran vows a \"crushing\" retaliation, shattering Trump’s claims that the conflict is winding down. | Miami Beach Local: As Miami Beach pivots from easing water restrictions to showcasing its pristine shoreline, a clash intensifies between luxury-focused infrastructure expansion and the preservation of public access. | OpenClaw: OpenClaw’s new SkillCompass and Hybro tools unify AI agent performance and architecture into one cohesive, high-performance ecosystem.",
+    "duration": "246",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-04-03T09:29:25.750Z"
+  },
+  {
     "id": "tars-1775208296207-xes6k9",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Friday, April 3, 2026",
