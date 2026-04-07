@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775554079484-39jd70",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Tuesday, April 7, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_april_7_2026.mp3",
+    "description": "AI Engineering: AI engineering is maturing from experimental prompting into a rigorous discipline of architecting observable, standardized, and reliable multi-agent systems. | AI Product Strategy: To win in the AI era, you must re-engineer your business model, not just bolt on features. | HealthTech: From AI-driven clinical efficiency to cutting-edge swallowable robotics and looming cybersecurity threats, the rapidly evolving health-tech sector balances transformative innovation with critical data risks. | Iran-US Conflict: Iran escalates regional conflict with lethal strike on U.S. base, vowing an even broader campaign of attacks. | Miami Beach Local: Miami Beach honors local icon Naomi Wilzig with a street dedication while Mayor Meiner doubles down on a strict zero-tolerance policy against hate crimes. | Mumbai Infrastructure: Mumbai’s metro network hits a major milestone as it expands to 101 operational kilometers. | OpenClaw: Despite Anthropic’s new API restrictions, OpenClaw’s rapid growth continues with a major endorsement from GitHub.",
+    "duration": "270",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-04-07T09:27:59.484Z"
+  },
+  {
     "id": "tars-1775467729793-tg4z9n",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Monday, April 6, 2026",
