@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775640274737-zbgi0i",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Wednesday, April 8, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_april_8_2026.mp3",
+    "description": "AI Engineering: Anthropic's Head of Growth suggests AI coding tools will shift engineering bottlenecks from raw code generation to product management and system orchestration. | AI Product Strategy: AI product strategy is shifting toward systematic, bottleneck-first development that prioritizes fundamental operational re-engineering over simple workflow automation. | HealthTech: From the development of HOBIT’s implantable living pharmacy to HHS leadership shifts and a surge in European AI funding, HealthTech is rapidly evolving through clinical innovation, regulatory restructuring, and capital scaling. | Miami Beach Local: Miami Beach balances high-profile tourism and development projects with ongoing public safety challenges. | Mumbai Infrastructure: The 5.53 km Metro Line 2B corridor is now officially operational, connecting Mumbai's eastern suburbs. | OpenClaw: Security researchers identified malicious keyloggers and credential stealers in 12% of ClawHub plugins as the Hermes Agent framework gains traction as a potential OpenClaw alternative.",
+    "duration": "233",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-04-08T09:24:34.737Z"
+  },
+  {
     "id": "tars-1775554079484-39jd70",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Tuesday, April 7, 2026",
