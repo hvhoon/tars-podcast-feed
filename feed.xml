@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 09:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:24:49 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Friday, April 10, 2026</title>
+      <description>AI Engineering: Meta’s new Applied AI division and emerging architectural methodologies signal a shift toward industrializing agentic workflows and production-grade AI engineering. | AI Product Strategy: Industry experts warn that &apos;AI-first&apos; SaaS strategies often obscure underlying business bottlenecks rather than solving them. | HealthTech: A multi-billion dollar illicit financial scheme disguised as a Hong Kong health tech group highlights the growing risk of scams leveraging health-tech marketing. | Miami Beach Local: Miami Beach has relocated 3,606 pavers from its former rainbow crosswalk to a new park installation. | Mumbai Infrastructure: Contractors threaten to halt Mumbai infrastructure projects over ₹96,000 crore in unpaid dues. | OpenClaw: Security researchers have identified a critical 9.9 CVSS vulnerability in OpenClaw, leaving over 40,000 instances exposed to exploitation.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_friday_april_10_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1775813089312-h1dja8</guid>
+      <pubDate>Fri, 10 Apr 2026 09:24:49 GMT</pubDate>
+      <itunes:duration>213</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Thursday, April 9, 2026</title>
       <description>AI Engineering: AI engineering is shifting toward formal systems and sub-agent orchestration as AI agents account for over 60% of Vercel’s infrastructure traffic. | AI Product Strategy: AI product strategy is shifting focus from raw model capabilities toward cost architecture, deterministic development, and business process control. | HealthTech: New NIHR funding for NICE-recommended tech and the launch of ClinicOps Copilot emerge alongside a landmark MassNotify settlement redefining legal boundaries for public health tools. | Iran-US Conflict: President Trump confirms a &apos;workable&apos; 10-point ceasefire proposal from Iran as tensions persist over the blocked Strait of Hormuz. | Miami Beach Local: Miami Beach rolls out new E-bike patrols, flood assessment grants, and a town hall meeting to address resident parking and development concerns. | Mumbai Infrastructure: NHSRCL has begun assembling and lowering a Tunnel Boring Machine for the Mumbai-Ahmedabad bullet train project&apos;s 16 km tunnel.</description>

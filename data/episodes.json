@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775813089312-h1dja8",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Friday, April 10, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_friday_april_10_2026.mp3",
+    "description": "AI Engineering: Meta’s new Applied AI division and emerging architectural methodologies signal a shift toward industrializing agentic workflows and production-grade AI engineering. | AI Product Strategy: Industry experts warn that 'AI-first' SaaS strategies often obscure underlying business bottlenecks rather than solving them. | HealthTech: A multi-billion dollar illicit financial scheme disguised as a Hong Kong health tech group highlights the growing risk of scams leveraging health-tech marketing. | Miami Beach Local: Miami Beach has relocated 3,606 pavers from its former rainbow crosswalk to a new park installation. | Mumbai Infrastructure: Contractors threaten to halt Mumbai infrastructure projects over ₹96,000 crore in unpaid dues. | OpenClaw: Security researchers have identified a critical 9.9 CVSS vulnerability in OpenClaw, leaving over 40,000 instances exposed to exploitation.",
+    "duration": "213",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-04-10T09:24:49.312Z"
+  },
+  {
     "id": "tars-1775726728073-nq4yae",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Thursday, April 9, 2026",
