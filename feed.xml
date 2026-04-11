@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 14:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 14:35:03 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, April 11, 2026</title>
+      <description>AI Engineering: The blueprint for top AI engineers: mastering Claude&apos;s architecture, Transformer internals, advanced agent design, and new skill management tools. | AI Product Strategy: AI product strategy pivots to persistent, stateful workflows, demanding ownership of prompts, data, and an abstracted AI layer. | HealthTech: AI propels healthcare innovation: China launches its first AI hospital, Mayo Clinic develops a digital twin expert. | Iran-US Conflict: US and Iranian delegations begin direct negotiations, with Iran&apos;s demands for Hormuz, reparations, and assets clashing with US denials, while ten people were killed in southern Lebanon. | Miami Beach Local: Miami Beach grapples with a man accused of throwing a victim from the 25th floor, even as Governor DeSantis curbs local zoning control. | OpenClaw: OpenClaw advances with new features, an enterprise service, and a high-value bot, as its creator faces a temporary Claude ban.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_april_11_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1775918103774-y1mc1e</guid>
+      <pubDate>Sat, 11 Apr 2026 14:35:03 GMT</pubDate>
+      <itunes:duration>284</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Saturday, April 11, 2026</title>
       <description>AI Engineering: The blueprint for top AI engineers: mastering Claude&apos;s architecture, Transformer internals, advanced agent design, and new skill management tools. | AI Product Strategy: AI product strategy pivots to persistent, stateful workflows, demanding ownership of prompts, data, and an abstracted AI layer. | HealthTech: AI propels healthcare innovation: China launches its first AI hospital, Mayo Clinic develops a digital twin expert. | Miami Beach Local: Miami Beach grapples with a man accused of throwing a victim from the 25th floor, even as Governor DeSantis curbs local zoning control. | OpenClaw: OpenClaw&apos;s latest advancements include V4.10 reliability updates, the new &apos;Eve&apos; managed service, &apos;Zeroclawed&apos; security, and high-value financial use cases generating returns without human input.</description>
