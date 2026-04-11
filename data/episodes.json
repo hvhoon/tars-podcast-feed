@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775916946765-sl72hp",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Saturday, April 11, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_april_11_2026.mp3",
+    "description": "AI Engineering: The blueprint for top AI engineers: mastering Claude's architecture, Transformer internals, advanced agent design, and new skill management tools. | AI Product Strategy: AI product strategy pivots to persistent, stateful workflows, demanding ownership of prompts, data, and an abstracted AI layer. | HealthTech: AI propels healthcare innovation: China launches its first AI hospital, Mayo Clinic develops a digital twin expert. | Miami Beach Local: Miami Beach grapples with a man accused of throwing a victim from the 25th floor, even as Governor DeSantis curbs local zoning control. | OpenClaw: OpenClaw's latest advancements include V4.10 reliability updates, the new 'Eve' managed service, 'Zeroclawed' security, and high-value financial use cases generating returns without human input.",
+    "duration": "259",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-04-11T14:15:46.765Z"
+  },
+  {
     "id": "tars-1775813089312-h1dja8",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Friday, April 10, 2026",
