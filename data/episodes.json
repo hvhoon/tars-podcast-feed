@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1775986807426-9uykbv",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Sunday, April 12, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_sunday_april_12_2026.mp3",
+    "description": "AI Engineering: recursive-mode, a new 'Repo-Native Operating System for AI Engineering,' arrives as Anthropic's CEO predicts software engineers will be fully automated within 12 months. | AI Product Strategy: AI product strategy transforms development, treating models as infrastructure, safeguarding data, and reshaping product management roles. | Miami Beach Local: Miami Beach Local: Crime arrests, 'desperate' sellers, and noise enforcement define the local pulse. | Mumbai Infrastructure: Mumbai's infrastructure sees a strengthened electrical grid, contrasted by a \"not perfect\" metro operational experience and BMC's criticized water tank spending plans. | OpenClaw: OpenClaw releases with migration snags, but its bot renders pools and targets 'lazy GPT' issues.",
+    "duration": "259",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-04-12T09:40:07.426Z"
+  },
+  {
     "id": "tars-1775918103774-y1mc1e",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Saturday, April 11, 2026",
