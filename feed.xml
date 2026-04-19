@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 09:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 09:38:46 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Sunday, April 19, 2026</title>
+      <description>Applied AI: Applied AI sparks job cuts and entry hurdles, even as it delivers &apos;couples therapist&apos; support. | Digital Health Competitive Landscape: The digital health competitive landscape is marked by stark financial divergences, strategic brand leverage, and the market-reshaping impact of AI and innovative solutions. | Iran-US Conflict: Iran closes Hormuz citing US blockade, fires at vessels, as US airlifts forces while new proposals are reviewed. | Miami Arts &amp; Culture: Miami&apos;s diverse art landscape welcomes &apos;On-chain Art Angels,&apos; Alonzo Mourning to PAMM, and the arriving &apos;Tumbling Dice. | Mumbai Infrastructure: New video provides inside look at Mandale Metro Depot, identified as India&apos;s largest Metro depot. | OpenClaw: OpenClaw brings affordable 𝕏 API access, launching simpler ZooClaw for everyone.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_sunday_april_19_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1776591526291-ridfa4</guid>
+      <pubDate>Sun, 19 Apr 2026 09:38:46 GMT</pubDate>
+      <itunes:duration>265</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Saturday, April 18, 2026</title>
       <description>Applied AI: Anthropic Labs introduces &apos;Claude Design,&apos; a new offering from the company. | Digital Health Competitive Landscape: Digital health&apos;s evolving disruptors pivot to integrated &quot;replacements&quot; as industry leaders convene its future. | Healthcare Delivery Innovation: Aligning CMS innovation, integrated technology, and evolving value-based care for healthcare&apos;s competitive future. | Iran-US Conflict: USS Eisenhower Fire Raises Fresh Concerns. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene bursts with new exhibitions, immersive movie sets, and cultural tours. | Miami Beach Local: Sargassum response, Zero Waste drive, and library reopening lead Miami Beach local news. | Mumbai Infrastructure: Mumbai&apos;s infrastructure grapples with growth-fueled friction, traffic surges, and encroachment while MHADA plans redevelopment and MMRDA tenders Metro Line 10. | OpenClaw: OpenClaw clones itself for secure, affordable 24/7 autonomous teams. | Tele-Mental Health Regulation: Tele-Mental Health: Privacy Standards, Interstate Protections, and Future Federal Direction.</description>
