@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 09:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:41:28 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, April 21, 2026</title>
+      <description>Applied AI: Applied AI unveils practical tools, from on-device markdown editing to automated job applications. | Digital Health Competitive Landscape: Digital Health&apos;s Q1 2026 competitive landscape is marked by $7.4B funding, AI innovation, and a strategic pivot to megadeals and consolidated partnerships. | Iran-US Conflict: US ship seizure draws Iranian retaliation vow as Gulf conflict strains UAE into seeking US financial aid. | Miami Arts &amp; Culture: Miami&apos;s arts and culture shine, from a thriving film festival and top-rated museum to cutting-edge art and technology events. | Miami Beach Local: Miami Beach: Investor networking, youth sports, park honors, and a preservation award highlight the local scene, offset by a warning of rising rip current risks. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances with new bridges and data centers, yet grapples with rising costs, questioned metro numbers, and ageing system vulnerabilities. | OpenClaw: Anthropic reverses stance, now allowing OpenClaw-style Claude CLI usage despite significant operational costs. | Tele-Mental Health Regulation: Tele-Mental Health Regulation Clarifies Data Standards, Boosts Drug Development.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_april_21_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1776764488138-a6uk6v</guid>
+      <pubDate>Tue, 21 Apr 2026 09:41:28 GMT</pubDate>
+      <itunes:duration>320</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, April 20, 2026</title>
       <description>Applied AI: Microsoft&apos;s AI tools face paid adoption struggles, but LinkedIn&apos;s Hiring Assistant generates meaningful adoption. | Digital Health Competitive Landscape: Telehealth use in primary care stabilizes at 6-7% as Hims &amp; Hers stock jumps 100% from &apos;uninvestable&apos;. | Healthcare Delivery Innovation: Innovative technologies, from remote surgery to virtual nursing and integrated wearables, are revolutionizing healthcare delivery and patient care globally. | Iran-US Conflict: Amid a drone attack and shipping disruptions, US officials cite strides toward a deal with Iran. | Miami Arts &amp; Culture: Miami Arts &amp; Culture Shines: &apos;Get Money Girls&apos; Premiere Set as Miami Design District Earns Golden Baton. | Miami Beach Local: Miami Beach buzzes with major cocaine offloads, Earth Week reminders, and Pride 2026 highlights. | Mumbai Infrastructure: Dangerous traffic modification, pipeline disruption, and &apos;Third Mumbai&apos; land pressure are key concerns for Mumbai&apos;s infrastructure. | OpenClaw: OpenClaw innovates in open-source AI agents, democratizing robotics and adding new personas and management tools. | Tele-Mental Health Regulation: Rising telehealth ADHD diagnoses and potential &apos;AI psychosis&apos; underscore new mental health regulation challenges.</description>
