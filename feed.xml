@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:43:56 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Thursday, April 23, 2026</title>
+      <description>Applied AI: Applied AI&apos;s practical range extends from agentic trading systems to engineer certification programs. | Digital Health Competitive Landscape: Digital health&apos;s competitive landscape sees payers pivot to AI and proactive subscription models, driving soaring valuations even as many segments face high failure rates. | Healthcare Delivery Innovation: Digital, AI, and smart technologies are scaling expert care and revolutionizing healthcare delivery. | Iran-US Conflict: Iran conflict sparks US intel leak and war powers clash. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene unveils diverse offerings from artist calls to fashion and underwater experiences. | Miami Beach Local: A ride-share threat reportedly led to a standoff in Miami Beach, which also hosts a park dedication and partners for free food distribution. | Mumbai Infrastructure: Mumbai infrastructure surges with new metro lines, water transport, coastal road progress, and digital ticketing innovations. | OpenClaw: OpenClaw&apos;s Cost Crossroads: Ban Reversal Could Save Users Money, Yet Many Call It a &apos;Money Pit&apos;. | Tele-Mental Health Regulation: Legislative action and regulatory clarifications globally are strengthening telehealth access and broadening its scope.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_thursday_april_23_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1776937436233-0u8mfn</guid>
+      <pubDate>Thu, 23 Apr 2026 09:43:56 GMT</pubDate>
+      <itunes:duration>348</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Wednesday, April 22, 2026</title>
       <description>Applied AI: Applied AI sparks new apps and engineering demand, navigating core challenges and App Store policing. | Digital Health Competitive Landscape: Digital health confronts vendor sprawl and AI contract risks, yet reveals a $50 billion untapped mobile market. | Healthcare Delivery Innovation: Healthcare delivery innovations deploy health technology and linked systems to reshape care and reach remote communities, but are hampered by an &apos;infrastructure problem&apos; of disconnected workflows. | Iran-US Conflict: Trump extends Iran ceasefire but threatens strikes as carrier nears. | Miami Arts &amp; Culture: Miami F1: Business, Culture, and Gilded Bitcoin Art Converge. | Miami Beach Local: Miami Beach headlines range from reportedly attacked seniors to a major city takeover, legendary leader nominations, and resident water tracking. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surges with ambitious metro and water upgrades, drawing both concern over its rapid pace and attention to a called-out crisis. | OpenClaw: OpenClaw emerges as the autonomous OS &apos;command center,&apos; powering industry operations with &apos;industry-leading Computer Use. | Tele-Mental Health Regulation: Telehealth faces S8 prescribing bans and legitimacy questions over limited GP scope and cannabis sales.</description>
