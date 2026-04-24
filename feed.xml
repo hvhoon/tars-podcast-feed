@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:39:25 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Friday, April 24, 2026</title>
+      <description>Applied AI: Applied AI charges ahead with massive infrastructure and advanced chips, while also tackling user trust and governance for real-world impact. | Digital Health Competitive Landscape: The consumer health stack commoditizes as teleconsultation and digital therapeutics attract less than $20 million in funding. | Healthcare Delivery Innovation: Ambulatory Surgery Centers and adapted Serious Illness Care drive outpatient healthcare evolution. | Iran-US Conflict: US orders &apos;shoot and kill&apos; while Iran bombs a US ally, as Israel awaits a green light for war. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene ignites with historic rebirths, public exhibitions, and engaging events. | Miami Beach Local: Miami Beach mourns Michael Tilson Thomas, funds flood fight, and weighs Nikki Beach&apos;s settlement fate. | Mumbai Infrastructure: Mumbai&apos;s infrastructure pushes forward with key projects, yet grapples with fuel shortages, increasing costs, and environmental endangerment.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_friday_april_24_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1777023565220-k7w9cn</guid>
+      <pubDate>Fri, 24 Apr 2026 09:39:25 GMT</pubDate>
+      <itunes:duration>358</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Thursday, April 23, 2026</title>
       <description>Applied AI: Applied AI&apos;s practical range extends from agentic trading systems to engineer certification programs. | Digital Health Competitive Landscape: Digital health&apos;s competitive landscape sees payers pivot to AI and proactive subscription models, driving soaring valuations even as many segments face high failure rates. | Healthcare Delivery Innovation: Digital, AI, and smart technologies are scaling expert care and revolutionizing healthcare delivery. | Iran-US Conflict: Iran conflict sparks US intel leak and war powers clash. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene unveils diverse offerings from artist calls to fashion and underwater experiences. | Miami Beach Local: A ride-share threat reportedly led to a standoff in Miami Beach, which also hosts a park dedication and partners for free food distribution. | Mumbai Infrastructure: Mumbai infrastructure surges with new metro lines, water transport, coastal road progress, and digital ticketing innovations. | OpenClaw: OpenClaw&apos;s Cost Crossroads: Ban Reversal Could Save Users Money, Yet Many Call It a &apos;Money Pit&apos;. | Tele-Mental Health Regulation: Legislative action and regulatory clarifications globally are strengthening telehealth access and broadening its scope.</description>
