@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 09:45:54 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, April 25, 2026</title>
+      <description>Applied AI: Applied AI faces a psychology barrier to adoption while driving demand for founding engineers. | Digital Health Competitive Landscape: Digital health is experiencing widespread expansion, from UN population-level implementation to booming markets in AI for healthcare payers and non-clinical information systems. | Healthcare Delivery Innovation: AI, cloud, and tech-as-a-service models are transforming healthcare delivery, access, and clinician support. | Iran-US Conflict: Iran forbids US talks as naval buildup, Strait of Hormuz mining, and US allied pressure mount. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene is buzzing with new expansions, historical exhibits, and vibrant festivals. | Miami Beach Local: Miami&apos;s local scene buzzes with drug seizures, a major business expo, and new community services. | Mumbai Infrastructure: Amid airline reluctance for the new Navi Mumbai International Airport and construction slowdowns from labor shifts, Mumbai&apos;s Bullet Train Project sees tunnelling work begin. | OpenClaw: OpenClaw launches new Grock AI capabilities and PrivateClaw&apos;s verifiable confidential virtual machines. | Tele-Mental Health Regulation: Workplace mental health drives new telework mandates and $40M tech platform expansion.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_april_25_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1777110354327-u6qjrp</guid>
+      <pubDate>Sat, 25 Apr 2026 09:45:54 GMT</pubDate>
+      <itunes:duration>369</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, April 24, 2026</title>
       <description>Applied AI: Applied AI charges ahead with massive infrastructure and advanced chips, while also tackling user trust and governance for real-world impact. | Digital Health Competitive Landscape: The consumer health stack commoditizes as teleconsultation and digital therapeutics attract less than $20 million in funding. | Healthcare Delivery Innovation: Ambulatory Surgery Centers and adapted Serious Illness Care drive outpatient healthcare evolution. | Iran-US Conflict: US orders &apos;shoot and kill&apos; while Iran bombs a US ally, as Israel awaits a green light for war. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene ignites with historic rebirths, public exhibitions, and engaging events. | Miami Beach Local: Miami Beach mourns Michael Tilson Thomas, funds flood fight, and weighs Nikki Beach&apos;s settlement fate. | Mumbai Infrastructure: Mumbai&apos;s infrastructure pushes forward with key projects, yet grapples with fuel shortages, increasing costs, and environmental endangerment.</description>
