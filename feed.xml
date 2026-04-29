@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:34:52 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, April 29, 2026</title>
+      <description>Applied AI: Applied AI is accelerating real-world deployment and boosting operational efficiency across diverse applications. | Iran-US Conflict: Amid US economic pressure, regional military warnings, and global economic fallout, the Iran-US conflict persists, with Iran offering a conditional end to war. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene charges forward with a 20-year Ultra deal, historic symphonies, and NFT innovation. | Miami Beach Local: Miami Beach sees armed threats, luxury car spottings, and Florida&apos;s groundbreaking air taxi bill. | OpenClaw: OpenClaw expands AI agent capabilities with new integrations, local model support, and enhanced security. | Tele-Mental Health Regulation: MindFiti&apos;s new, anonymous telepsychiatry platform draws professional warnings on misleading, risky &quot;therapy&quot; spaces.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_april_29_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1777455292830-n1s3em</guid>
+      <pubDate>Wed, 29 Apr 2026 09:34:52 GMT</pubDate>
+      <itunes:duration>363</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, April 28, 2026</title>
       <description>Applied AI: Applied AI: From solving long-unsolved problems to powering on-device intelligence. | Digital Health Competitive Landscape: Digital health sees accelerating consolidation and significant growth, driven by CMS initiatives and a projected boom in telehealth-powered home healthcare. | Healthcare Delivery Innovation: CMS Unveils First Wave of Digital Health Tools from 50+ Companies in Health Tech Ecosystem Initiative. | Iran-US Conflict: US-Iran War Sees Diplomacy Stall, Economic Pressures Rise Globally. | Miami Arts &amp; Culture: Miami&apos;s cultural scene: a Golden Baton award for the Design District amid Wynwood gentrification discussions. | Miami Beach Local: Bitfunded announces its Consensus Miami 2026 sponsorship; Miami Beach discusses a 69 Street left-turn lane. | Mumbai Infrastructure: Mumbai Pune Missing Link Set for May 1, 2026 Opening. | OpenClaw: OpenClaw autonomously redesigns menus and empowers continuous, offline video production. | Tele-Mental Health Regulation: Criticism over Remote Monitors and AI Chatbot Safety Demands Push Tele-Mental Health Regulation.</description>
