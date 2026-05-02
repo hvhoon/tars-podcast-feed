@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1777715312270-ciyin8",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Saturday, May 2, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_may_2_2026.mp3",
+    "description": "Applied AI: Preview AI changes with `code-preview.nvim`'s new OpenAI Codex CLI support, offering diff previews before any AI agent applies a change. | Digital Health Competitive Landscape: Tech integration, market expansion, and regulatory shifts define the surging digital health competitive landscape. | Healthcare Delivery Innovation: AI, AR, and API standards are transforming healthcare delivery, enabling better patient care and collaboration. | Iran-US Conflict: Trump declares Iran war 'terminated,' but damaged US sites, ongoing military options, high gas prices, and plummeting Strait shipping mark persistent conflict. | Miami Arts & Culture: Miami's arts and culture scene bursts alive with new exhibitions, live music, a film festival, and artist showcases. | Miami Beach Local: Miami Reddit cultivates local discussions, from favorite pizza spots to new megathreads for travel and tourism content. | Mumbai Infrastructure: Mumbai-Pune Expressway Missing Link jams on opening day, defying congestion relief goal. | OpenClaw: OpenClaw's open-source update enables undetectable web scraping, natively bypassing Cloudflare and achieving 774x faster speeds. | Tele-Mental Health Regulation: Tele-Mental Health regulation shapes billing, marks service milestones, and sparks fee control opposition.",
+    "duration": "373",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-05-02T09:48:32.270Z"
+  },
+  {
     "id": "tars-1777628407889-v69ei8",
     "topic": "Pulse Daily",
     "title": "Pulse Daily — Friday, May 1, 2026",
