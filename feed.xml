@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 09:59:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:01:45 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, May 13, 2026</title>
+      <description>Applied AI: Applied AI&apos;s complex landscape includes new hardware, evolving pricing, job shifts, and IP concerns. | Digital Health Competitive Landscape: Daye&apos;s Rewired Pitchfest 2026 victory highlights innovation in women&apos;s health. | Iran-US Conflict: Amid US defense of war costs, Iran threatens uranium enrichment and claims destroyed US aircraft, as President Trump warns Iran will be &apos;decimated&apos; without a peace deal and Iron Dome deploys in the UAE. | Miami Arts &amp; Culture: Miami&apos;s vibrant arts and culture scene buzzes with Cuban creator residencies, Moroccan exhibitions, complimentary access, and its biggest celebration. | Miami Beach Local: Miami tour business reports zero bookings for three months, attributing failure to traveler persona misalignment and eyeing a niche pivot. | Mumbai Infrastructure: Mumbai navigates a 10% water cut and slowed Metro progress across multiple lines as new Water Treatment Plant construction begins to boost supply. | OpenClaw: Facing &quot;Killer&quot; competition and questions of relevance, OpenClaw&apos;s framework powers a new open-source tool. | Tele-Mental Health Regulation: Tele-Mental Health Regulation: Location Limits and Legal Diagnosis Challenges.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_may_13_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1778666505345-2ok5g0</guid>
+      <pubDate>Wed, 13 May 2026 10:01:45 GMT</pubDate>
+      <itunes:duration>318</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, May 12, 2026</title>
       <description>Applied AI: Applied AI rapidly redefines the job market, sparking Reddit debate on job elimination and preparation, as new roles emerge and job-finding AI agents amass over 100,000 users. | Iran-US Conflict: Amid mysterious explosions, refinery strikes, and Hormuz threats, The Atlantic claims Iran conflict a &apos;total defeat&apos; for US, raising FIFA terror risk. | Miami Arts &amp; Culture: Miami&apos;s arts and culture scene showcases high fashion, street art insights, and vibrant performances. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances with tunnelling and bullet train projections, yet grapples with coordination issues and a public transport deficit. | OpenClaw: OpenClaw expands its deployment to embedded systems with WireClaw, despite Hermes Agent surpassing it in daily token use. | Tele-Mental Health Regulation: Tele-Mental Health Regulation: Medicare Extends Telehealth Flexibilities, Policy Adjustments Continue.</description>
