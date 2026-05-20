@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 23:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:40:40 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, May 20, 2026</title>
+      <description>Applied AI: Global Applied AI advances: OpenAI establishes Singapore lab, Microsoft Clarity launches Citations Dashboard. | Digital Health Competitive Landscape: The competitive digital health landscape is shifting focus to AI-driven data infrastructure and system-level health optimization, demanding quality data over superficial trends or sheer size. | Healthcare Delivery Innovation: From Kwara&apos;s digital health workshop to HealthLynked&apos;s AI platform, innovation targets improved healthcare access and reduced costs. | Iran-US Conflict: Trump&apos;s US-Iran Stance: From Called-Off Strikes to Renewed Threats Amid Peace Talks, While Tehran Claims Billions in Past US Aircraft Losses. | Miami Arts &amp; Culture: Miami&apos;s dynamic arts scene welcomes new showcases, celebrates heritage, and launches a historic comedy festival. | Miami Beach Local: Miami Beach celebrates new dining, Memorial Day events, and a public safety endorsement. | OpenClaw: OpenClaw expands its autonomous reach with Slack device setup, enhanced image classification, and YouTube access. | Tele-Mental Health Regulation: Minister Launches Natpudan Ungalodu ManaNala Sevai TeleMental Health Service.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_may_20_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1779270040951-ysn5gr</guid>
+      <pubDate>Wed, 20 May 2026 09:40:40 GMT</pubDate>
+      <itunes:duration>288</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, May 19, 2026</title>
       <description>Applied AI: Applied AI advances with a sharper focus on content quality, robust security, and real-world deployment. | Digital Health Competitive Landscape: Digital health&apos;s competitive landscape sees investors prioritizing clinical intelligence and backing strategic JVs while market reach expands. | Healthcare Delivery Innovation: AI-driven interoperability and intelligent hospital rooms are automating care and adapting to dynamic ward environments. | Iran-US Conflict: Iran threatens &apos;new surprises&apos; if attacked again, as US temporarily waives oil sanctions while peace efforts stall. | Miami Arts &amp; Culture: Miami&apos;s cultural calendar bursts with diverse festivals, free concerts, and special exhibits. | Miami Beach Local: Miami Beach: From an antisemitic defacement and a water main break to a new cancer center and FIFA shop, the city is a hub of varied activity. | Mumbai Infrastructure: Mumbai&apos;s infrastructure accelerates with bullet train reveal, major bridge approval, and water system upgrades. | OpenClaw: OpenClaw 5.18 gains AI voice amid intel of chained vulnerabilities and IMDA&apos;s mission-critical warning over unrestricted access. | Tele-Mental Health Regulation: Tele-mental health&apos;s expanding access and evolving technology spark calls for strengthened regulation to protect patient safety and ensure compliant platforms.</description>
