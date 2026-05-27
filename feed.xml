@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 09:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:42:32 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, May 27, 2026</title>
+      <description>Applied AI: Applied AI drives practical solutions, from a 19-year-old&apos;s golf swing analyzer to agentic hotel management systems. | Digital Health Competitive Landscape: AI-fueled innovation, outcome-driven models, and digital transformation are rapidly reshaping the digital health landscape. | Healthcare Delivery Innovation: Upcoming events spotlight diverse healthcare delivery innovation, featuring AI, medical cannabis, and dedicated hackathons. | Iran-US Conflict: US demands destruction of Iran&apos;s uranium as Iran warns US bases unsafe and claims firing on jets. | Miami Arts &amp; Culture: Miami spotlights its cultural importance with Carlos Vives&apos; &apos;Tour Al Sol&apos; and the City Ballet orchestra&apos;s star turn. | Miami Beach Local: Miami Beach local news spans charges, a man&apos;s death, a mobile DMV, and a sustainability garden. | Mumbai Infrastructure: BMC Takes Charge of 24 Flyovers &amp; Bridges, 20kms Span. | OpenClaw: Hacker News spotlights local-first OpenClaw AI agents for sales workflows. | Tele-Mental Health Regulation: Behavioral Health Access: Infrastructure Over Chatbots Amid AI Hallucination Concerns.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_may_27_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1779874952199-uvpkg3</guid>
+      <pubDate>Wed, 27 May 2026 09:42:32 GMT</pubDate>
+      <itunes:duration>277</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, May 26, 2026</title>
       <description>Applied AI: Applied AI fuels $1B investment in engineers, next-gen chip tech, consumer app innovation, and talent development. | Digital Health Competitive Landscape: Data, Not AI, Is Health Tech&apos;s Bottleneck, Driving High Valuations for Data Infrastructure. | Iran-US Conflict: US Strikes Kill Four, Raise Gulf Tensions As Iran Negotiations Confront Trump&apos;s Demands. | Miami Arts &amp; Culture: Miami&apos;s dynamic cultural tapestry weaves diverse artistic journeys, literature, and global music celebrations. | Miami Beach Local: A 26-year Lincoln Road cafe and bar closes as Miami Beach honors veterans on Memorial Day. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surges forward with USD 40 billion investment, pioneering projects like India’s first undersea rail tunnel, transformed transport hubs, and flood mitigation efforts. | OpenClaw: OpenClaw 5.24 releases with &apos;Secure Gateway&apos; designed to eliminate dangerous permission sprawl and &apos;ClawBox&apos; for private, always-on AI workspaces.</description>
