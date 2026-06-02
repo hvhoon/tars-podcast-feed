@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 09:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:35:19 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, June 2, 2026</title>
+      <description>Applied AI: Applied AI scales to global infrastructure and massive deployments, navigating regulatory bans and production debugging. | Digital Health Competitive Landscape: Fueled by surging U.S. investment and AI innovation, the Digital Health competitive landscape is further shaped by global scaling strategies. | Miami Arts &amp; Culture: Miami&apos;s cultural calendar features a &quot;love letter&quot; exhibition and vibrant musical celebrations. | Miami Beach Local: Miami Beach reportedly pushing new micromobility safety rules. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surges ahead with a new suburban rail corridor approval, advancing high-speed tunnels, and a ₹6,300 crore double-decker airport road project plan. | OpenClaw: OpenClaw expands NVIDIA RTX Spark Laptop support; Nebius offers 15-minute sandboxed AI agent deployment. | Tele-Mental Health Regulation: Utah Schools: Telehealth Grants State Power Over Child&apos;s School Stay.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_june_2_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1780392919775-ug9kor</guid>
+      <pubDate>Tue, 02 Jun 2026 09:35:19 GMT</pubDate>
+      <itunes:duration>253</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, June 1, 2026</title>
       <description>Applied AI: Despite access, enterprise AI tool utilization remains under 15%, while new tools emerge to bypass API costs for coding agents. | Digital Health Competitive Landscape: Hims &amp; Hers builds unreplicable moats with AI and vertical integration, fueling explosive telehealth growth. | Healthcare Delivery Innovation: Home health technology and synthetic data are accelerating healthcare innovation, from new apps to responsible AI. | Miami Arts &amp; Culture: Miami: Fashion, Film, and Global Culture Converge. | Mumbai Infrastructure: Mumbai&apos;s infrastructure is driving a housing boom and modern connectivity, yet it still grapples with flooding due to poor road quality and incomplete systems. | OpenClaw: OpenClaw grapples with critical gateway vulnerabilities and a developer walkout as its next release promises a full Skill Workshop and supercharged Workboard. | Tele-Mental Health Regulation: From controversial patient ID scans to alarming AI safety gaps, tele-mental health navigates urgent calls for clinically-informed standards.</description>
