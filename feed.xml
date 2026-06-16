@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:38:54 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, June 16, 2026</title>
+      <description>Applied AI: Applied AI: Corporate growing pains meet individual triumphs and soaring demand for practical skills. | Digital Health Competitive Landscape: Disruptor Hims &amp; Hers fuels Telehealth Rx platforms&apos; projected $23 billion boom, posting 59% revenue growth. | Healthcare Delivery Innovation: Global partnerships propel technology-driven and digital healthcare innovations across India, Indonesia, and Nigeria. | Iran-US Conflict: US-Iran&apos;s deal to end war and initiate talks faces Israeli rejection, renewed sanction threats, and Iran&apos;s blame over ceasefire violations. | Miami Arts &amp; Culture: Bass Museum expansion and funding spotlighted at Miami Beach public meeting. | Miami Beach Local: Miami Beach grapples with dark algae, a World Cup flag enforcement dispute, and a condo murder suspect released on bond. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surges with massive new commercial hub plans and an open expressway section. | OpenClaw: OpenClaw faces &apos;Stop Using&apos; calls and a Rust alternative amidst new beta features.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_june_16_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1781602734219-g46wvp</guid>
+      <pubDate>Tue, 16 Jun 2026 09:38:54 GMT</pubDate>
+      <itunes:duration>255</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, June 15, 2026</title>
       <description>Applied AI: Microsoft-AICTE internships and OpenAI&apos;s new Partner Network drive the broad expansion of Applied AI capabilities. | Digital Health Competitive Landscape: Digital health&apos;s competitive landscape sees growing pharmaceutical investment in DTx, active AI ecosystem development, and a strong push for interoperable connected care. | Healthcare Delivery Innovation: AI drives healthcare delivery innovation, deploying &apos;Aura&apos; to address doctor scarcity and hands-free, eyes-free co-pilots for ER triage nurses. | Iran-US Conflict: US and Iran Finalize Peace Deal, Ending War and Lifting Hormuz Blockade. | Miami Arts &amp; Culture: Miami&apos;s arts scene goes global with MYOM performing in Madrid, as the Dolce &amp; Gabbana exhibition concludes. | Miami Beach Local: Miami Locals Making Moves: From a Hurricanes Commitment to a $25 Million Inclusive Beach Access Plan. | Mumbai Infrastructure: Navi Mumbai’s Power Crisis Reaches Breaking Point; Widespread Disruptions Highlight Urgent Need for Action. | OpenClaw: OpenClaw: New vulnerabilities surface as Windows integration and novel software delivery expand. | Tele-Mental Health Regulation: Mental health regulation expands: Quebec redefines &apos;danger,&apos; social media impact targeted.</description>
