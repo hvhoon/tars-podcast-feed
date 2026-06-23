@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:26:44 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, June 23, 2026</title>
+      <description>Applied AI: Applied AI delivers practical gains and open tools, yet most companies still lag in adoption maturity. | Iran-US Conflict: US Lifts Sanctions, Agrees Peace Roadmap: Iran Rejects Nuclear Pledges Amid Stalled Talks and &apos;War of Words&apos;. | Miami Beach Local: Cat-killing wild dogs put Miami Beach neighborhood on edge. | Mumbai Infrastructure: Mumbai builds momentum with major infrastructure redevelopment, key project milestones, and connectivity enhancements. | OpenClaw: OpenClaw hit by widespread operational failures and agents that died overnight after Claude/Gemini OAuth terms shifted.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_june_23_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1782206804096-i0ynxk</guid>
+      <pubDate>Tue, 23 Jun 2026 09:26:44 GMT</pubDate>
+      <itunes:duration>171</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, June 22, 2026</title>
       <description>Applied AI: Applied AI drives innovation with new methods and real-world verification, navigating hardware optimization bottlenecks. | Digital Health Competitive Landscape: 2025-2026 U.S. AI litigation survey offers a new perspective on its regulatory and legal challenges. | Healthcare Delivery Innovation: Across Africa, digital solutions and AI adoption drive innovation, particularly in Kenya&apos;s pioneering healthcare delivery platforms. | Iran-US Conflict: Amid Trump&apos;s &apos;YOU WON&apos;T HAVE A COUNTRY&apos; threat, US-Iran ceasefire talks reportedly collapsed. | Mumbai Infrastructure: Mumbai&apos;s infrastructure details an 87-acre future-ready urban hub and boasts a Metro experience others could learn from.</description>
