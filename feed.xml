@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 09:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:30:54 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, June 30, 2026</title>
+      <description>Applied AI: Applied AI propels record stock highs and innovative tools in education, music, and mental health. | Digital Health Competitive Landscape: Health Insurance Stocks in Continuing Pullback. | Healthcare Delivery Innovation: Nigeria&apos;s First Lady commissions a Specialist Clinic and landmark projects, advancing healthcare delivery innovation. | Iran-US Conflict: Iran-US conflict: Peace talks planned as attacks continue and nuclear threats resurface. | Miami Arts &amp; Culture: Miami Arts &amp; Culture: Student achievements celebrated, cultural plan survey open. | Mumbai Infrastructure: Mumbai tackles dry taps and traffic jams with new infrastructure plans. | OpenClaw: OpenClaw Goes Mobile, Unveils Agent-First Kanban Tool.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_june_30_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1782811854789-hupeil</guid>
+      <pubDate>Tue, 30 Jun 2026 09:30:54 GMT</pubDate>
+      <itunes:duration>198</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, June 29, 2026</title>
       <description>Applied AI: Hacker News spotlights Wavecat, a fully local personal agent that watches your screen. | Healthcare Delivery Innovation: From government committees to diaspora investment, Niger State and Zimbabwe strengthen healthcare delivery. | Iran-US Conflict: Iran rebuilds military capabilities, its drones hit ships, and Hezbollah vows civil war: Regional escalation broadens. | Miami Arts &amp; Culture: Miami-Dade&apos;s Tropical Park Hosted 35th Annual Asian Culture Festival May 30-31, 2026. | Mumbai Infrastructure: Mumbai&apos;s infrastructure future takes shape, from next-gen bullet trains to education, healthcare, and green coastal parks.</description>
