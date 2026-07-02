@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:34:00 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Thursday, July 2, 2026</title>
+      <description>Applied AI: Big tech, from Google to Apple, strategically expands applied AI footprint globally. | Digital Health Competitive Landscape: From India&apos;s AI sovereignty quest to new blood pressure monitor badge adoption questions, digital health&apos;s landscape diversifies. | Healthcare Delivery Innovation: President Tinubu reports notable strides and implemented reforms in Nigeria&apos;s healthcare. | Iran-US Conflict: Ongoing war, threats of &apos;ALL OUT&apos; military action, and warnings of another war contrast with Trump&apos;s deal optimism. | Miami Arts &amp; Culture: Miami&apos;s Cultural Conversations Span Pop Critique and Cuban Art. | Miami Beach Local: North Miami Beach Mayor Michael Joseph held in contempt of Congress for defying Haitian funds probe subpoenas. | Mumbai Infrastructure: Mumbai Infrastructure: Progress continues on Ring Road and Expressway as &apos;dangerous waterfalls&apos; and electric shocks highlight safety issues. | OpenClaw: OpenClaw, Claude Code, and Codex now feature a &apos;Recursive AI Research Skill&apos; to enhance AI research capabilities.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_thursday_july_2_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1782984840971-y81uut</guid>
+      <pubDate>Thu, 02 Jul 2026 09:34:00 GMT</pubDate>
+      <itunes:duration>195</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Wednesday, July 1, 2026</title>
       <description>Healthcare Delivery Innovation: Africa boosts healthcare delivery innovation with significant investment and digital transformation. | Iran-US Conflict: Trump Declares New Iran Strikes, Conflict &quot;Nearly Won Militarily. | Miami Arts &amp; Culture: Jean-Michel Basquiat Exhibition in Miami. | Mumbai Infrastructure: Mumbai&apos;s infrastructure faces scrutiny over flood resilience, alleged project corruption, and the need for electricity network upgrades. | OpenClaw: Secure alternatives and &quot;better&quot; OpenClaw solutions emerge.</description>
