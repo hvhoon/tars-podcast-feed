@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:33:33 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,36 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>The RLVR Revolution — with Nathan Lambert (AI2, Interconnects.ai)</title>
+      <description></description>
+      <enclosure url="https://api.substack.com/api/v1/audio/upload/01cf1ed1-6753-4d8f-a764-3a82ad7920ea/src" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1783096413102-gdegty</guid>
+      <pubDate>Fri, 03 Jul 2026 16:33:33 GMT</pubDate>
+      
+      
+      <itunes:author>Latent Space</itunes:author>
+    </item>
+    <item>
+      <title>The Origin and Future of RLHF: the secret ingredient for ChatGPT - with Nathan Lambert</title>
+      <description></description>
+      <enclosure url="https://api.substack.com/api/v1/audio/upload/3c8adbca-5de3-4d9f-9038-c51862dab910/src" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1783096413031-3mwcd6</guid>
+      <pubDate>Fri, 03 Jul 2026 16:33:33 GMT</pubDate>
+      
+      
+      <itunes:author>Latent Space</itunes:author>
+    </item>
+    <item>
+      <title>Everything You Wanted to Know About LLM Post-Training, with Nathan Lambert of Allen Institute for AI</title>
+      <description>In this episode of The Cognitive Revolution, we dive deep into frontier post-training techniques for large language models with Nathan Lambert from the Allen Institute for AI. Nathan discusses the groundbreaking Tulu 3 release, which matches Meta&apos;s post-training performance using the LlAMA base model. We explore supervised fine-tuning, preference-based reinforcement learning, and the innovative reinforcement learning from verifiable reward technique. Nathan provides unprecedented insights into the practical aspects of model development, compute requirements, and data generation strategies. This technically rich conversation illuminates previously opaque aspects of LLM development, achieved by a small team of 10-15 people. Join us for one of our most detailed and valuable discussions on state-of-the-art AI model development.Check out Nathan&apos;s Lambert newsletter:https://www.natolambert.comhttps://www.interconnects.aiBe notified early when Turpentine&apos;s drops new publication: https://www.turpentine.co/exclusiveaccessSPONSORS:Incogni: Take your personal data back with Incogni! Use code REVOLUTION at the link below and get 60% off an annual plan: https://incogni.com/revolutionNotion: Notion offers powerful workflow and automation templates, perfect for streamlining processes and laying the groundwork for AI-driven automation. With Notion AI, you can search across thousands of documents from various platforms, generating highly relevant analysis and content tailored just for you - try it for free at https://notion.com/cognitiverevolutionShopify: Shopify is the world&apos;s leading e-commerce platform, offering a market-leading checkout system and exclusive AI apps like Quikly. Nobody does selling better than Shopify. Get a $1 per month trial at https://shopify.com/cognitiveOracle Cloud Infrastructure (OCI): Oracle&apos;s next-generation cloud platform delivers blazing-fast AI and ML performance with 50% less for compute and 80% less for outbound networking compared to other cloud providers13. OCI powers industry leaders with secure infrastructure and application development capabilities. New U.S. customers can get their cloud bill cut in half by switching to OCI before December 31, 2024 at https://oracle.com/cognitive80,000 Hours: 80,000 Hours offers free one-on-one career advising for Cognitive Revolution listeners aiming to tackle global challenges, especially in AI. They connect high-potential individuals with experts, opportunities, and personalized career plans to maximize positive impact. Apply for a free call at https://80000hours.org/cognitiverevolution to accelerate your career and contribute to solving pressing AI-related issues.RECOMMENDED PODCAST:Unpack Pricing - Dive into the dark arts of SaaS pricing with Metronome CEO Scott Woody and tech leaders. Learn how strategic pricing drives explosive revenue growth in today&apos;s biggest companies like Snowflake, Cockroach Labs, Dropbox and more.Apple: https://podcasts.apple.com/us/podcast/id1765716600Spotify: https://open.spotify.com/show/38DK3W1Fq1xxQalhDSueFgCHAPTERS:(00:00:00) Teaser(00:00:59) Sponsors: Incogni(00:02:20) About the Episode(00:05:56) Introducing AI2(00:09:56) Tulu: Deep Dive (Part 1)(00:17:43) Sponsors: Shopify | Oracle Cloud Infrastructure (OCI)(00:20:38) Open vs. Closed Recipes(00:29:48) Compute &amp;amp; Value (Part 1)(00:34:22) Sponsors: 80,000 Hours | Notion(00:37:02) Compute &amp;amp; Value (Part 2)(00:42:41) Model Weight Evolution(00:53:16) DPO vs. PPO(01:06:36) Project Trajectory(01:20:39) Synthetic Data &amp;amp; LLM Judge(01:27:39) Verifiable RL(01:38:17) Advice for Practitioners(01:44:01) Open Source vs. Closed(01:49:18) Outro</description>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP7725581394.mp3?updated=1732207673" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1783096412075-zbbmcp</guid>
+      <pubDate>Fri, 03 Jul 2026 16:33:32 GMT</pubDate>
+      <itunes:duration>6428</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/05f733de-a820-11ef-a89a-3f11f061d429/image/1d6878562b7b511ea8d2ddd30e818c32.png?ixlib=rails-4.3.1&amp;amp;max-w=3000&amp;amp;max-h=3000&amp;amp;fit=crop&amp;amp;auto=format,compress" />
+      <itunes:author>The Cognitive Revolution</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, July 3, 2026</title>
       <description>Iran-US Conflict: US eyes Saudi exit as Iran demands mediated talks, allies balk at operations. | Mumbai Infrastructure: Mumbai&apos;s infrastructure accelerates with a 2027 bullet train goal, new bridges, and a tariff-impacting desalination project. | OpenClaw: OpenClaw launches an open-source alternative to Claude Cowork and showcases the new Matrix cloud computer for coding agents.</description>
