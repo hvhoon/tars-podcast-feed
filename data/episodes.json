@@ -1,5 +1,17 @@
 [
   {
+    "id": "tars-1783157423001-ug5mgv",
+    "topic": "Pulse Daily",
+    "title": "Pulse Daily — Saturday, July 4, 2026",
+    "audioUrl": "https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_july_4_2026.mp3",
+    "description": "Applied AI: Applied AI empowers airline automation and nuanced self-driving decisions. | Digital Health Competitive Landscape: Sleep tracking is projected to make consumer wellness data as fundamental to digital health as knowing one's blood type. | Healthcare Delivery Innovation: AI-driven re-evaluation of Indian IT business models fuels healthcare delivery innovation, underpinned by National Standards for Electronic Health Records. | Iran-US Conflict: Iran rebuilds military capabilities as US and Iran exchange strikes, including alleged base attacks and vessel incidents. | Miami Beach Local: Miami Beach Veterans Celebrate America's 250th Birthday. | Mumbai Infrastructure: Mumbai Infrastructure: Potholes Mar New Link as Coastal Road and Thane Metro Progress is Tracked. | OpenClaw: OpenClaw, Claude, Hermes Discussed for Unified 5-Layer Agent OS with Shared Memory.",
+    "duration": "229",
+    "fileSize": 0,
+    "originalPodcast": null,
+    "imageUrl": "",
+    "addedAt": "2026-07-04T09:30:23.001Z"
+  },
+  {
     "id": "tars-1783096413102-gdegty",
     "topic": "Post / Pre-training",
     "title": "The RLVR Revolution — with Nathan Lambert (AI2, Interconnects.ai)",
