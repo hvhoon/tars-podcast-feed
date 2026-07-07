@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 09:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:26:43 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, July 7, 2026</title>
+      <description>Applied AI: Applied AI: Uncovering data risks, empowering users, and transforming hiring. | Digital Health Competitive Landscape: Kenya&apos;s SHA payment chain raises taxpayer accountability questions. | Iran-US Conflict: Trump&apos;s Iran strategy: military threats and a pivot to commerce, amid blame for an economic crisis and an unpopular US-Israeli war. | Miami Arts &amp; Culture: Calle Ocho commemorates &apos;Cinco años del 11J&apos; with a day of art and memory for Cuban freedom. | Mumbai Infrastructure: Mumbai&apos;s monsoon infrastructure failures lead to multiple deaths. | OpenClaw: OpenClaw now supported on Hugging Face local applications.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_july_7_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1783416403560-rkme8p</guid>
+      <pubDate>Tue, 07 Jul 2026 09:26:43 GMT</pubDate>
+      <itunes:duration>153</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, July 6, 2026</title>
       <description>Applied AI: Applied AI drives innovation across HBM, education, coding, and visual effects. | Digital Health Competitive Landscape: Audit Uncovers Private Firms&apos; Significant Control Over Sh104 Billion SHA System. | Healthcare Delivery Innovation: HPV vaccination campaigns, medical device industry trends, and smart hospital tech drive healthcare delivery innovation. | Iran-US Conflict: US warns Iran of alleged Israeli plot to assassinate Supreme Leader Khamenei – Iran&apos;s Army Chief issues direct threat to USA. | Miami Arts &amp; Culture: Councilwoman Gelien Perez attended Floyd The Rock Artist&apos;s 4th of July performance at Milander Center for Arts and Entertainment. | Mumbai Infrastructure: Heavy Mumbai Rains Uproot Trees, Halt Traffic, Damage Infrastructure. | OpenClaw: OpenClaw brings AI agent gateway control to mobile, challenging users with its four distinct installation paths.</description>
