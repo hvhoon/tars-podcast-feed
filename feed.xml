@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:38:48 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, July 15, 2026</title>
+      <description>Applied AI: New &apos;Show HN&apos; project showcases real-time avatars able to change emotions as a user talks. | Digital Health Competitive Landscape: Haoxi&apos;s strategic partnership and NordicTrack&apos;s digitized Pilates drive Digital Health forward. | Healthcare Delivery Innovation: Healthcare delivery surges with retail innovation, accessible therapies, and new drug approvals. | Iran-US Conflict: Iran&apos;s US Base Missile Firings &amp; Resumed Middle East Artillery Stoke Tensions, Raise US Ammo Concerns. | Miami Beach Local: Miami Beach Opens Paid Internship Applications for Local Students. | Mumbai Infrastructure: Landslides and tunnel fires expose Mumbai&apos;s critical infrastructure challenges, even as a 35-year bridge delay finally receives a deadline. | OpenClaw: OpenClaw&apos;s versatile AI ecosystem expands to power diverse projects, from apps and Shopify stores to notetaking and stock tools. | Tele-Mental Health Regulation: Unconstitutional: Federal Court Rules Texas Mental Health Waitlist for Detainees Needing Help to Stand Trial.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_july_15_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1784108328814-xksfeh</guid>
+      <pubDate>Wed, 15 Jul 2026 09:38:48 GMT</pubDate>
+      <itunes:duration>160</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, July 14, 2026</title>
       <description>Applied AI: Applied AI powers up with next-gen chips, soaring investments, specialized tools, and a demanding talent market. | Healthcare Delivery Innovation: Lagos and corporate entities forge new partnerships for healthcare delivery. | Iran-US Conflict: Fourth Wave of US Strikes on Iran Depletes Air Defense in Ongoing US-Israeli Conflict. | Miami Arts &amp; Culture: Olshan Law Guides TriCap’s David Edelstein Through Wynwood Arts District Property Deals. | Miami Beach Local: Manhole fire in Miami Beach sent three people to the hospital. | Mumbai Infrastructure: Mumbai&apos;s infrastructure builds momentum with new projects, despite the Deputy Mayor&apos;s &apos;collapsed&apos; assessment. | OpenClaw: OpenClaw launches new version and enterprise initiative, but is surpassed by Hermes Agent in token usage.</description>
