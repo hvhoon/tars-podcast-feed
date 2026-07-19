@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 09:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:23:00 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Sunday, July 19, 2026</title>
+      <description>Applied AI: Shikigami Runs Parallel AI Coding Agents in Git Worktrees. | Healthcare Delivery Innovation: LSPHCB prioritizes nurse leaders&apos; professional growth for healthcare excellence. | Iran-US Conflict: US attacks reportedly target Iranian sites, leaving 10,000 without water. | Mumbai Infrastructure: Mumbai Infrastructure: India blamed for bullet train delays as Vasai-Virar aims to be the &apos;Next Mumbai&apos;. | OpenClaw: New tutorial demonstrates how to build with OpenClaw and Hermes Agent on a $20 budget using the Kimi K3 model.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_sunday_july_19_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1784452980428-6177b1</guid>
+      <pubDate>Sun, 19 Jul 2026 09:23:00 GMT</pubDate>
+      <itunes:duration>125</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Saturday, July 18, 2026</title>
       <description>Applied AI: Applied AI&apos;s Evolving Landscape: Ethical Pullbacks, Market Skepticism, and Business Expansion. | Healthcare Delivery Innovation: Sokoto Governor targets increased UNICEF support for healthcare improvement. | Iran-US Conflict: Iran issues indictments, claims deadly attack, and warns of an &apos;offensive and destructive&apos; phase as US jets are destroyed. | Mumbai Infrastructure: Mumbai&apos;s infrastructure development surges with indigenous bullet train progress, new flyovers, and ongoing Japan talks, overcoming past scrutiny. | OpenClaw: OpenClaw: Exposed in &apos;ClawHavoc&apos; attack, rarely adopted, and claimed replaced by a new tool. | Tele-Mental Health Regulation: Praxis Medical Office Pack Ships New Version Focused on Multi-State Regulatory Compliance.</description>
