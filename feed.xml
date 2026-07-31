@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 09:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:31:42 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Friday, July 31, 2026</title>
+      <description>Applied AI: Applied AI readies GenAI Evidence Workbench for controlled review, leveraging CISA guidance. | Digital Health Competitive Landscape: Digital Health: Thousands flock to new launches while key embeds secure existing platforms. | Healthcare Delivery Innovation: OUK, Machakos County partner to advance healthcare training via nursing upgrading programme. | Iran-US Conflict: Arms deals fuel Iran-US conflict as cyberattacks strike US utilities. | Miami Beach Local: Miami Beach: A former LSU football player was arrested after allegedly threatening passengers on a bus, while Miami Beach Parks invites qualifying participants to Adaptive Bowling with Special Olympic opportunities. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances amidst rapid project timelines, environmental reviews, and global conflict-driven real estate extensions. | OpenClaw: OpeClaud AI: Pre-production tool catches AI code runtime bugs.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_friday_july_31_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1785490302771-jgqluc</guid>
+      <pubDate>Fri, 31 Jul 2026 09:31:42 GMT</pubDate>
+      <itunes:duration>188</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Thursday, July 30, 2026</title>
       <description>Digital Health Competitive Landscape: Unowned Digital Front Doors Highlight Open Competitive Opportunities Across Digital Health. | Miami Arts &amp; Culture: Miami Arts &amp; Culture Honored Internationally, Secures Seven National Achievement Awards. | Miami Beach Local: Over 30 local artist murals transform Miami Beach streets into an outdoor gallery. | Mumbai Infrastructure: Goregaon-Mulund Link Road Project Reaches Major Milestone: First TBM Ready for Twin Tunnel Excavation. | OpenClaw: OpenClaw and Hunch advance developer and LLM capabilities as users report persistent &apos;server_is_overloaded&apos; errors via ChatGPT-subscription OAuth (Codex path).</description>
