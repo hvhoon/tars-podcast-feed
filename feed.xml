@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:31:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:27:15 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, August 1, 2026</title>
+      <description>Applied AI: Applied AI advances in drone autonomy and protein learning, while &apos;AI bubble&apos; talk sparks market speculation. | Iran-US Conflict: With new strikes ordered and energy targets eyed, the widening Iran war pulls in regional states and prompts airspace closures as Trump aims for surrender. | Miami Arts &amp; Culture: Oolite Arts Launches &quot;Sites of the Self,&quot; Featuring Resident Artists Exploring Identity and Community. | Miami Beach Local: Miami Beach Police Rescue Autistic Boy, Texas Foster Father Jailed. | Mumbai Infrastructure: Mumbai&apos;s future takes flight with a proposed 3rd International Airport and new Thane waterfront commercial development. | OpenClaw: OpenClaw: Self-hosted AI agent faces memory-access attack analysis while progressing to LTS.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_august_1_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1785576435221-l7h8mb</guid>
+      <pubDate>Sat, 01 Aug 2026 09:27:15 GMT</pubDate>
+      <itunes:duration>175</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, July 31, 2026</title>
       <description>Applied AI: Applied AI readies GenAI Evidence Workbench for controlled review, leveraging CISA guidance. | Digital Health Competitive Landscape: Digital Health: Thousands flock to new launches while key embeds secure existing platforms. | Healthcare Delivery Innovation: OUK, Machakos County partner to advance healthcare training via nursing upgrading programme. | Iran-US Conflict: Arms deals fuel Iran-US conflict as cyberattacks strike US utilities. | Miami Beach Local: Miami Beach: A former LSU football player was arrested after allegedly threatening passengers on a bus, while Miami Beach Parks invites qualifying participants to Adaptive Bowling with Special Olympic opportunities. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances amidst rapid project timelines, environmental reviews, and global conflict-driven real estate extensions. | OpenClaw: OpeClaud AI: Pre-production tool catches AI code runtime bugs.</description>
