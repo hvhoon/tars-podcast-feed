@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:30:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:39:58 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, August 11, 2026</title>
+      <description>Applied AI: Applied AI deploys on devices, watermarks outputs, and lists on exchanges. | Digital Health Competitive Landscape: From hospital scales to consumer apps, digital health innovations show promise but face challenges in achieving sustainable scale. | Healthcare Delivery Innovation: Automated Insulin and Blood Sugar Monitoring: Artificial Pancreas Systems Transform Diabetes Care. | Iran-US Conflict: US watches Russian activity at Iran&apos;s nuclear site, offers Strait of Hormuz deal. | Miami Arts &amp; Culture: Miami Arts &amp; Culture: Celebrating heritage, crafting new music, and shaping future leadership. | Miami Beach Local: Miami Beach boosts community well-being with adaptive sports and support for firefighter safety. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances with Juhu relief, Morbe Dam&apos;s 87% completion, and a new $80 billion plan to &apos;REFRESH&apos; and expand. | OpenClaw: OpenClaw launches &apos;Australia&apos;s first autonomous AI cyberattack&apos; as developers deem it an &apos;ancient relic&apos;. | Tele-Mental Health Regulation: Tele-Mental Health: Promoting well-being, facing &apos;failed a patient&apos; expert claims.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_august_11_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1786441198733-rfekdn</guid>
+      <pubDate>Tue, 11 Aug 2026 09:39:58 GMT</pubDate>
+      <itunes:duration>307</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, August 10, 2026</title>
       <description>Digital Health Competitive Landscape: South Australia Inks Historic AI Deal with OpenAI. | Healthcare Delivery Innovation: Nations eye med-tech self-reliance, sustainable financing, and increased investment to deliver affordable healthcare. | Iran-US Conflict: Trump Eyes Iran Conflict Exit Without Nuclear Deal as Tehran Demands Reparations. | Miami Beach Local: Drunk-driving illegal charged with fleeing scene after running over elderly woman in front of her Miami home. | Mumbai Infrastructure: Mumbai&apos;s infrastructure quality is critically questioned despite over ₹81,000 crore in spending, with Package-17 of the Delhi Mumbai Expressway ending abruptly at the Mumbai end, even as its next growth corridor is powered by global partnerships and over ₹1.1 billion in investment. | OpenClaw: New agentic development environment OpenChamber launches, featured on Hacker News. | Tele-Mental Health Regulation: Tristin Murphy Act Aims to Improve Mental Health Treatment Access.</description>
