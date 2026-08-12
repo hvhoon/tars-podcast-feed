@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:32:02 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, August 12, 2026</title>
+      <description>Applied AI: Applied AI fuels market growth, innovative development tools, and seamless platform integration. | Digital Health Competitive Landscape: Healthcare&apos;s twin challenges: GLP-1&apos;s $100 Billion battle and proposed hospital room caps. | Iran-US Conflict: Amid rising conflict risk, US attacks hit Iran with deadly explosions reported as Trump demands payment for 50 years of damages. | Miami Arts &amp; Culture: Hard Rock Stadium History Soon On View at Cape Verdean Museum. | Mumbai Infrastructure: MMRDA signs agreement with Singapore firm for &apos;Mumbai 3.0 project&apos;. | Tele-Mental Health Regulation: Mental health finds community backing, but school-based tele-health programs face academic-focus calls.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_wednesday_august_12_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1786527122328-qhot5p</guid>
+      <pubDate>Wed, 12 Aug 2026 09:32:02 GMT</pubDate>
+      <itunes:duration>144</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, August 11, 2026</title>
       <description>Applied AI: Applied AI deploys on devices, watermarks outputs, and lists on exchanges. | Digital Health Competitive Landscape: From hospital scales to consumer apps, digital health innovations show promise but face challenges in achieving sustainable scale. | Healthcare Delivery Innovation: Automated Insulin and Blood Sugar Monitoring: Artificial Pancreas Systems Transform Diabetes Care. | Iran-US Conflict: US watches Russian activity at Iran&apos;s nuclear site, offers Strait of Hormuz deal. | Miami Arts &amp; Culture: Miami Arts &amp; Culture: Celebrating heritage, crafting new music, and shaping future leadership. | Miami Beach Local: Miami Beach boosts community well-being with adaptive sports and support for firefighter safety. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances with Juhu relief, Morbe Dam&apos;s 87% completion, and a new $80 billion plan to &apos;REFRESH&apos; and expand. | OpenClaw: OpenClaw launches &apos;Australia&apos;s first autonomous AI cyberattack&apos; as developers deem it an &apos;ancient relic&apos;. | Tele-Mental Health Regulation: Tele-Mental Health: Promoting well-being, facing &apos;failed a patient&apos; expert claims.</description>
