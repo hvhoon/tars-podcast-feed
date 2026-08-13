@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:28:08 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Thursday, August 13, 2026</title>
+      <description>Applied AI: Apple&apos;s AI push sparks content licensing talks and a surge in bug bounty submissions. | Iran-US Conflict: Deepening West Asia deadlock sees US Army personnel deaths, crude oil prices decline. | Mumbai Infrastructure: Mumbai&apos;s infrastructure accelerates with key project inaugurations, AI-ready digital builds, and a major shipbuilding hub emerging. | OpenClaw: OpenClaw&apos;s status is questioned as new &apos;BAIclaw&apos; and a Local AI Toolkit emerge, positioning AI as a working assistant. | Tele-Mental Health Regulation: India’s Mental Health Helpline: A Global Model.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_thursday_august_13_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1786613288766-vjvoac</guid>
+      <pubDate>Thu, 13 Aug 2026 09:28:08 GMT</pubDate>
+      <itunes:duration>139</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Wednesday, August 12, 2026</title>
       <description>Applied AI: Applied AI fuels market growth, innovative development tools, and seamless platform integration. | Digital Health Competitive Landscape: Healthcare&apos;s twin challenges: GLP-1&apos;s $100 Billion battle and proposed hospital room caps. | Iran-US Conflict: Amid rising conflict risk, US attacks hit Iran with deadly explosions reported as Trump demands payment for 50 years of damages. | Miami Arts &amp; Culture: Hard Rock Stadium History Soon On View at Cape Verdean Museum. | Mumbai Infrastructure: MMRDA signs agreement with Singapore firm for &apos;Mumbai 3.0 project&apos;. | Tele-Mental Health Regulation: Mental health finds community backing, but school-based tele-health programs face academic-focus calls.</description>
