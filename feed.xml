@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:31:31 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, August 18, 2026</title>
+      <description>Applied AI: Apple&apos;s influence spans Applied AI, from training controversies and market leadership to new device integration. | Iran-US Conflict: Turkey urges diplomacy and peace efforts as Trump reportedly threatens to bomb Oman over Iran deal. | Miami Arts &amp; Culture: Miami&apos;s vibrant arts scene is heating up, with diverse festivals, performances, and growing visibility before the high season. | Miami Beach Local: Crime and community outreach mark Miami-Dade&apos;s local headlines, from a federal charge for high-end vehicle theft to new mobile government services. | Mumbai Infrastructure: Mumbai infrastructure: 15-year Mumbai-Goa Highway delays, ongoing Thane project progress, and up to 71% property price growth in Mumbai, Navi Mumbai, and Thane. | OpenClaw: OpenClaw faces perceived decline and user migration as even its developers turn to other products.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_august_18_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1787045491837-uzjs5q</guid>
+      <pubDate>Tue, 18 Aug 2026 09:31:31 GMT</pubDate>
+      <itunes:duration>195</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, August 17, 2026</title>
       <description>Applied AI: Applied AI: Shaping education, recalibrating markets, and fueling a global race. | Iran-US Conflict: Iran prepares for a new conflict phase with the US, offering a $30,000 reward for anyone who kills or captures a US soldier, with its strengthened missile arsenal now understood as Gulf countries discuss US base withdrawal. | Mumbai Infrastructure: Mumbai: Chembur Metro Line 2B and Santacruz-Chembur Link Road Final Link Inaugurated. | OpenClaw: OpenClaw: Autonomous AI boosts efficiency for first-of-its-kind cyberattacks, from state targets to personal hacks.</description>
