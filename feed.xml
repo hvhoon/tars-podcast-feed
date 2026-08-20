@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:25:59 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Thursday, August 20, 2026</title>
+      <description>Applied AI: Applied AI: Google open-sources future forecasting, JobEasyApply automates job applications. | Healthcare Delivery Innovation: Kenya strengthens healthcare with 25,000 new recruits and permanent, pensionable terms for UHC workers. | Miami Arts &amp; Culture: Fueling Miami&apos;s art scene: $720K CreARTE grants, highlighted street artists, and vibrant graffiti. | Mumbai Infrastructure: Mumbai plans a ₹702.4-crore underground pedestrian passage as pro-development discourse emphasizes better planning and quality of life, countering claims of the city being &apos;sold&apos;. | OpenClaw: OpenClaw Debuts Multiplayer UI, YC-Backed OneCLI, And Multi-Agent System As User Claims $43,800 Overnight.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_thursday_august_20_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1787217959802-g2ui5z</guid>
+      <pubDate>Thu, 20 Aug 2026 09:25:59 GMT</pubDate>
+      <itunes:duration>138</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Wednesday, August 19, 2026</title>
       <description>Applied AI: Applied AI explodes: Anthropic&apos;s revenue surpasses $65B, new on-device app innovates accessibility. | Digital Health Competitive Landscape: 42,000 biometric digital health devices for patient file management are deploying nationally as Online NHS Trust gets new CEO. | Healthcare Delivery Innovation: President Ruto leads Kenya&apos;s digitally-powered health transformation, gathering direct feedback on the Social Health Authority. | Iran-US Conflict: Iran eyes contingency strikes while US denies talks as its Secretary of War is pushed &quot;to the brink. | Miami Beach Local: Suburban Chicago Man Accused of Miami BB Gun Scooter Shooting, Faces More Charges. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advancements: Metro Line 13 approved, Bullet Train progress updated. | OpenClaw: OpenClaw&apos;s &quot;Big Mission Control update&quot; reinforces its perceived status as a &quot;spiritual entity&quot; integrated into Codex. | Tele-Mental Health Regulation: Tele-Mental Health Training: Boosting Skills and Exploring Impact.</description>
