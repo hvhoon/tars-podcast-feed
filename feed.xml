@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:28:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:24:52 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, August 22, 2026</title>
+      <description>Digital Health Competitive Landscape: Digital Health&apos;s Competitive Landscape: Unproven AI Devices, Untapped Pharmacy Value, and a Shifting Revenue Crown. | Iran-US Conflict: Iran&apos;s president calls for war&apos;s end amidst economic pressure and claims of &apos;new kind of surprise&apos; weapons. | Miami Arts &amp; Culture: Miami&apos;s Vibrant Arts &amp; Culture: From Kids&apos; Crafts to Weekend Musicals. | Mumbai Infrastructure: Mumbai moves forward with a ₹28,000 crore transformation plan for 22 BEST Depots, even as a proposed ₹11,166-crore Manori desalination plant draws protests from over 3,000 fishermen. | OpenClaw: Syndicate OS: Multi-Agent Federation for OpenClaw Agents Debuts on Hacker News.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_august_22_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1787390692718-auem9i</guid>
+      <pubDate>Sat, 22 Aug 2026 09:24:52 GMT</pubDate>
+      <itunes:duration>151</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, August 21, 2026</title>
       <description>Applied AI: AI is increasingly integrated into Apple&apos;s core services, introducing new content labels, control, and privacy concerns. | Digital Health Competitive Landscape: ABH Healthcare forges a specialty platform amidst a $1M unowned digital front door opportunity in Baby Healthcare. | Healthcare Delivery Innovation: President Trump nominates Dr. Heidi Overton as the next FDA Commissioner, a key appointment for healthcare delivery innovation. | Iran-US Conflict: Amid &apos;new phase&apos; of &apos;Iran-US war,&apos; Trump imposes &apos;most crushing sanctions&apos; as China rejects isolation. | Miami Arts &amp; Culture: Miami&apos;s culture scene crowns a new queen and secures a milestone music investment. | Mumbai Infrastructure: Uttan-Virar Sea Link Project: Route, Cost, and Delhi-Mumbai Expressway Integration Details Revealed.</description>
