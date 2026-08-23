@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:23:43 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Sunday, August 23, 2026</title>
+      <description>Applied AI: Applied AI tools power Marvel visuals, web skill creation, and offline voice cloning. | Digital Health Competitive Landscape: Odisha to soon introduce Digital Prescription system. | Healthcare Delivery Innovation: Imo Specialist Hospital launches Nigeria&apos;s first Robotics Center, advancing healthcare delivery innovation. | Iran-US Conflict: Tehran executes protester, displays threatening billboards across capital. | Mumbai Infrastructure: Mumbai&apos;s infrastructure: Unusable beaches draw optimism for tackling the issue, while a Delhi Mumbai Expressway section has reportedly achieved 100% completion.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_sunday_august_23_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1787477023949-dsa4im</guid>
+      <pubDate>Sun, 23 Aug 2026 09:23:43 GMT</pubDate>
+      <itunes:duration>125</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Saturday, August 22, 2026</title>
       <description>Digital Health Competitive Landscape: Digital Health&apos;s Competitive Landscape: Unproven AI Devices, Untapped Pharmacy Value, and a Shifting Revenue Crown. | Iran-US Conflict: Iran&apos;s president calls for war&apos;s end amidst economic pressure and claims of &apos;new kind of surprise&apos; weapons. | Miami Arts &amp; Culture: Miami&apos;s Vibrant Arts &amp; Culture: From Kids&apos; Crafts to Weekend Musicals. | Mumbai Infrastructure: Mumbai moves forward with a ₹28,000 crore transformation plan for 22 BEST Depots, even as a proposed ₹11,166-crore Manori desalination plant draws protests from over 3,000 fishermen. | OpenClaw: Syndicate OS: Multi-Agent Federation for OpenClaw Agents Debuts on Hacker News.</description>
