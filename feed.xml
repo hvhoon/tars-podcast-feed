@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:29:18 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Monday, August 24, 2026</title>
+      <description>Applied AI: Apple grapples with AI&apos;s security implications, from reported iMessage privacy degradation to IETF-detailed Siri solutions, as an individual joins OpenAI. | Digital Health Competitive Landscape: Digital Health: A Shift From Walled Gardens To Open Protocols. | Healthcare Delivery Innovation: KNUST lands €300,000 PharmaVax Ghana grant for local herbal pain relief. | Iran-US Conflict: As ceasefire expires and &apos;no talks&apos; continue, U.S. targets Iran with &apos;single greatest financial offensive ever&apos; while Iran prepares to escalate war and threatens Hormuz. | Miami Arts &amp; Culture: Miami&apos;s Stages Embrace Spanish-Language and Latin American Talent. | Mumbai Infrastructure: Mumbai Police arrest Orris Infrastructure MD after Godrej Properties complaint. | Tele-Mental Health Regulation: Lindsay Clancy murder case prompts questions: more mental health funding or greater scrutiny of psychiatric drugging?</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_monday_august_24_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1787563758801-8s1346</guid>
+      <pubDate>Mon, 24 Aug 2026 09:29:18 GMT</pubDate>
+      <itunes:duration>170</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Sunday, August 23, 2026</title>
       <description>Applied AI: Applied AI tools power Marvel visuals, web skill creation, and offline voice cloning. | Digital Health Competitive Landscape: Odisha to soon introduce Digital Prescription system. | Healthcare Delivery Innovation: Imo Specialist Hospital launches Nigeria&apos;s first Robotics Center, advancing healthcare delivery innovation. | Iran-US Conflict: Tehran executes protester, displays threatening billboards across capital. | Mumbai Infrastructure: Mumbai&apos;s infrastructure: Unusable beaches draw optimism for tackling the issue, while a Delhi Mumbai Expressway section has reportedly achieved 100% completion.</description>
