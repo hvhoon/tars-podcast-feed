@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:24:57 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Thursday, September 3, 2026</title>
+      <description>Applied AI: Show HN projects and new introductions showcase varied applied AI agents and tools. | Digital Health Competitive Landscape: Free AI health intelligence platform ASTRID launches, providing medical, dental, and veterinary insights. | Miami Beach Local: South Beach&apos;s Mac&apos;s Club Deuce marks a century as North Miami Beach Mayor Michael Joseph is found in contempt of Congress. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances while hosting Gujarat&apos;s global investment outreach. | OpenClaw: OpenClaw 2.0 evolves with new features, architectural details, a Rust agent Aura, and maintainer insights on building and securing the platform.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_thursday_september_3_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1788427497589-srwokt</guid>
+      <pubDate>Thu, 03 Sep 2026 09:24:57 GMT</pubDate>
+      <itunes:duration>127</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Wednesday, September 2, 2026</title>
       <description>Applied AI: Apple Claims OpenAI Is Destroying Evidence in Trade Secrets Case. | Digital Health Competitive Landscape: Alan launches African expansion with Dakar-based Tanel acquisition. | Iran-US Conflict: US-Iran conflict escalates with strikes and vowed retaliation, as Russia supplies equipment and air travel faces disruption. | Miami Beach Local: Miami Beach pushes back against Florida state order mandating the removal of license plate readers. | Mumbai Infrastructure: Mumbai&apos;s infrastructure landscape sees ongoing upgrades and new land deals amidst public scrutiny over absent cameras despite spent funds and &apos;greed and patronage&apos; allegations. | OpenClaw: OpenClaw&apos;s unsloth tool enables specific AI models to run locally on machines.</description>
