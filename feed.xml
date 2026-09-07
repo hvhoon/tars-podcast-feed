@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:28:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:25:50 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Monday, September 7, 2026</title>
+      <description>Applied AI: Show HN&apos; Project Launches Wayfinder, an AI Application Evaluation Reference Implementation. | Healthcare Delivery Innovation: Arrow_Dental&apos;s oral healthcare delivery innovation places Kenya on the global map. | Iran-US Conflict: Iran launches attacks on US naval assets; US threatens Iran&apos;s &apos;Pickaxe Mountain&apos; nuclear site. | Mumbai Infrastructure: Mumbai’s rising-sea risk now framed as an economic concern ahead of PM Modi’s Maharashtra visit. | OpenClaw: Google clarifies OpenClaw use violates Antigravity terms, risking service suspension or termination.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_monday_september_7_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1788773150945-4ld8jq</guid>
+      <pubDate>Mon, 07 Sep 2026 09:25:50 GMT</pubDate>
+      <itunes:duration>138</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Sunday, September 6, 2026</title>
       <description>Applied AI: Nvidia&apos;s expanding ecosystem drives Applied AI toward reliable physical AI, powering both robot brains and developer collaboration. | Digital Health Competitive Landscape: Qualcomm invests $70M in Ultrahuman to build AI-powered smart rings. | Iran-US Conflict: After six months of US-Iran war featuring reciprocal strikes on carriers and bases, explosions, and an economic task force, US intelligence notes Iran&apos;s growing confidence. | Miami Beach Local: Miami Beach Identifies Approximately Ten Additional Live Local Projects, Mostly High-Rises. | Mumbai Infrastructure: Goregaon–Mulund Link Road shows significant progress, with TBM Tulsi at work on flyover and tunnel sections. | OpenClaw: OpenClaw&apos;s Astra Update: Users still report needing Codex to fix the platform.</description>
