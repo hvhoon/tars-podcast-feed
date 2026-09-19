@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:06:44 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, September 19, 2026</title>
+      <description>Healthcare Delivery Innovation: Public-private partnerships and advanced technology, from medical drones to AI, are modernizing healthcare delivery and drug development.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_september_19_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1789808804794-ubu5v2</guid>
+      <pubDate>Sat, 19 Sep 2026 09:06:44 GMT</pubDate>
+      <itunes:duration>94</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, September 18, 2026</title>
       <description>Applied AI: AI&apos;s expanding reach brings new models and job offers, alongside reported false personality assessments. | Digital Health Competitive Landscape: Amid AI innovation and market expansion, digital health faces increasing regulatory scrutiny and evidence gaps. | Healthcare Delivery Innovation: AI, drones, and digital systems are advancing healthcare delivery on a global scale. | OpenClaw: OpenClaw sees new hardware launch amidst service term violation warnings and a newly identified security vulnerability.</description>
