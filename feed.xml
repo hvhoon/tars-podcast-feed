@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:20:20 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Monday, September 21, 2026</title>
+      <description>Iran-US Conflict: IRGC-backed Houthi attack spurs US &apos;major escalation&apos; readiness, as Rep claims Iran &apos;was preparing to launch ARMAGEDDON&apos;. | Miami Beach Local: Miami Beach Police Locate Escaped Prisoner Near Mount Sinai Hospital. | Mumbai Infrastructure: New Report: Inside Look at Mumbai&apos;s ₹16000 Crore Thane Borivali Tunnel Project. | OpenClaw: Jevals&apos; replaces LLM judges with typed Jev decisions.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_monday_september_21_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1789982420629-mjrnoj</guid>
+      <pubDate>Mon, 21 Sep 2026 09:20:20 GMT</pubDate>
+      <itunes:duration>101</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Sunday, September 20, 2026</title>
       <description>Applied AI: Applied AI on Apple highlights user control, privacy, and local processing power. | Iran-US Conflict: Iran communicates war-end conditions to US via Qatar. | Mumbai Infrastructure: Mumbai: Powai Residents Oppose Global Capability Centre, Citing &apos;No Space Left&apos; for Infrastructure. | OpenClaw: OpenClaw launches on Hacker News to hide personal information from AI.</description>
