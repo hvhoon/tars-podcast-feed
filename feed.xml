@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:21:21 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, September 26, 2026</title>
+      <description>Iran-US Conflict: Iran Proposes End to War, Nuclear Program Halt Amid Escalating Naval Conflict with US. | Miami Beach Local: Miami Beach Honors Heroic First Responders. | Mumbai Infrastructure: Mumbai Infrastructure: Updates highlight Delhi Mumbai Expressway progress and Mumbai 3.0 railway connectivity for Pen–Raigad Growth Centre. | OpenClaw: OpenClaw Debuts OOMU AI Harness and Worktable Open-Source Workspace.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_september_26_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1790414481504-n211be</guid>
+      <pubDate>Sat, 26 Sep 2026 09:21:21 GMT</pubDate>
+      <itunes:duration>114</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, September 25, 2026</title>
       <description>Applied AI: Applied AI shows increasing autonomy and capability, prompting new verification tools. | OpenClaw: OpenClaw Debuts New AI Agent, Diagramming Tool, and Hardening Framework.</description>
