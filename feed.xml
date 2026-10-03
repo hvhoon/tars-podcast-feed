@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:23:21 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, October 3, 2026</title>
+      <description>Applied AI: Applied AI: 53% of employees unaware of internal governance or AI malfunction responsibility. | Iran-US Conflict: Trump admits munitions shortage amid ongoing war. | Miami Beach Local: Rapper Rick Ross arrested in Miami Beach, while Florida expects new floods from returning King Tides. | Mumbai Infrastructure: Mumbai&apos;s infrastructure drive: Thane-Borivali Tunnel progress, key corridor updates, and airport location insights. | OpenClaw: Microsoft integrates OpenClaw into &apos;Autopilot&apos;, despite previously comparing the agent framework to a virus.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_october_3_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1791019401684-qz4zbk</guid>
+      <pubDate>Sat, 03 Oct 2026 09:23:21 GMT</pubDate>
+      <itunes:duration>147</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, October 2, 2026</title>
       <description>Applied AI: Apple&apos;s AI journey now encompasses a $250M settlement and a new App Store Connect developer tool. | Iran-US Conflict: Despite receiving US response on ending the war, Iran threatens America with &quot;endless&quot; missiles and naval action. | Mumbai Infrastructure: Mumbai&apos;s Dindoshi–Film City Flyover nears readiness amid BMC deadline questions, as a new report discusses reasons for its future big dam, POD Taxi, and Metro Line 6. | OpenClaw: OpenClaw Agent Now Physical, Opening New Avenues for Integration and Deployment.</description>
