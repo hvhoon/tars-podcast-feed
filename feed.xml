@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 09:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:21:32 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Monday, October 5, 2026</title>
+      <description>Applied AI: Agents Sleep Preventer&apos; keeps Macs awake just for active AI work. | Digital Health Competitive Landscape: Oura&apos;s September IPO ignites Digital Health Vitals&apos; breaking news discussion on competitive health tech. | Iran-US Conflict: Tehran readies for war, threatens Hormuz closure, builds &apos;BOMB Network&apos; as US carriers deploy amid igniting Yemen conflict. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surges forward with Sion Bridge progress and a 1,139 KM Ring Road Masterplan.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_monday_october_5_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1791192092194-myzs2j</guid>
+      <pubDate>Mon, 05 Oct 2026 09:21:32 GMT</pubDate>
+      <itunes:duration>115</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Sunday, October 4, 2026</title>
       <description>Iran-US Conflict: Iran-US conflict sees foiled plot, Iran declaring Trump&apos;s war failed, and Trump presenting &apos;easy or hard way&apos;. | Mumbai Infrastructure: Mumbai&apos;s Three Bridges: Public Questions If October Finally Opens Them After Long Wait.</description>
