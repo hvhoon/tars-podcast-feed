@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:22:42 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, October 6, 2026</title>
+      <description>Applied AI: Applied AI empowers users with data deletion and new personal &apos;Halo&apos;. | Iran-US Conflict: US Bombers Respond to Iranian Diplomacy and Russia-Iran&apos;s &apos;Space War Threat&apos;. | Mumbai Infrastructure: Mumbai&apos;s infrastructure advances frequent train services while assessing Navi Mumbai Airport&apos;s flight savings against Mumbaikars&apos; higher journey costs. | OpenClaw: OpenClaw Completes OpenAI Patch the Planet Security Audit.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_tuesday_october_6_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1791278562732-4z1dw2</guid>
+      <pubDate>Tue, 06 Oct 2026 09:22:42 GMT</pubDate>
+      <itunes:duration>110</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, October 5, 2026</title>
       <description>Applied AI: Agents Sleep Preventer&apos; keeps Macs awake just for active AI work. | Digital Health Competitive Landscape: Oura&apos;s September IPO ignites Digital Health Vitals&apos; breaking news discussion on competitive health tech. | Iran-US Conflict: Tehran readies for war, threatens Hormuz closure, builds &apos;BOMB Network&apos; as US carriers deploy amid igniting Yemen conflict. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surges forward with Sion Bridge progress and a 1,139 KM Ring Road Masterplan.</description>
