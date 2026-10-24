@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:30:20 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, October 24, 2026</title>
+      <description>Applied AI: Apple Silicon &amp; iOS gain Kapitsa AI, Spritz streaming, and NadY calorie tracking. | Healthcare Delivery Innovation: BioSapien Unveils World&apos;s First MediChip™ Clinical Site. | Iran-US Conflict: Escalating US-Iran conflict sees military moves, &quot;wiped out&quot; fighters, record Strait attacks, and drone facility reveals. | Miami Arts &amp; Culture: Genting Group closes $500 million refinance on downtown Miami portfolio near Adrienne Arsht Center. | Mumbai Infrastructure: Mumbai Infrastructure: Deadlines Questioned Amid Delays and &apos;Totally Failed&apos; Claims. | OpenClaw: OpenClaw faces user allegations of model disguise and questions over lack of discussion.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_october_24_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1792834220627-2ve2h0</guid>
+      <pubDate>Sat, 24 Oct 2026 09:30:20 GMT</pubDate>
+      <itunes:duration>224</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, October 23, 2026</title>
       <description>Healthcare Delivery Innovation: Healthcare innovation: Advanced eye care meets drone sample delivery. | Iran-US Conflict: Iran-US tensions surge amid military posturing and diplomatic push. | Miami Beach Local: Miami Beach Police Department Partners with Secret Service, Other Agencies This Week. | Mumbai Infrastructure: Mumbai Airport Terminal 1 Redevelopment Sparks Debate Over Flight Capacity, International Operations. | OpenClaw: OpenClaw Upgrades Encounter .zst Archive Issues, Requiring Manual Fixes to Resolve Failures.</description>
