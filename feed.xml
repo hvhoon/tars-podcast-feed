@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:28:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:24:25 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Monday, October 26, 2026</title>
+      <description>Healthcare Delivery Innovation: NVIDIA expands AI partnerships, accelerating AI-driven healthcare innovation in medical research and diagnostics. | Iran-US Conflict: Saudi Defense Minister to Tehran as Iran anticipates US-Israeli strikes. | Miami Beach Local: North Miami Beach Now Has Fix Avenue: New Local Tech Repair. | Mumbai Infrastructure: Mumbai Infrastructure Push: Creating jobs, expanding airports, and prompting pipeline-led traffic.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_monday_october_26_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1793006665211-xctq6o</guid>
+      <pubDate>Mon, 26 Oct 2026 09:24:25 GMT</pubDate>
+      <itunes:duration>122</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Sunday, October 25, 2026</title>
       <description>Applied AI: Applied AI advances through formal proof verification and powerful on-device model capabilities. | Healthcare Delivery Innovation: Ex-Apple Leader Launches New AI Healthcare Startup. | Iran-US Conflict: Iran Claims US Military Drone Shot Down. | Miami Arts &amp; Culture: Arts Patron Susan Hort&apos;s foundation debuts new grant for artists living with cancer. | Mumbai Infrastructure: New mega projects launch, development commences, and connectivity strengthens across Mumbai&apos;s expanding region. | OpenClaw: OpenClaw updates its AI agents amid user migration to &apos;better&apos; competitors and the rise of &apos;safer&apos; alternatives.</description>
