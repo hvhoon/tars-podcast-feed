@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:26:39 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
@@ -19,6 +19,16 @@
       <title>Pulse</title>
       <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, October 31, 2026</title>
+      <description>Healthcare Delivery Innovation: Digital Mission integration and market gains position healthcare as a stronger sector. | Iran-US Conflict: Iran&apos;s alleged plane hijack fuels US military buildup and war escalation risk. | Miami Beach Local: Miami Beach news ranges from a 50-year sentence for a fatal shooting and a life sentence sought for a killing, to Rick Ross&apos;s dropped felony and a 2026 film festival announcement. | Mumbai Infrastructure: Mumbai&apos;s infrastructure drives forward with advanced metros, accessibility focus, and commuter solutions. | OpenClaw: OpenClaw Urges Immediate Updates as Claude Agent&apos;s Access Restrictions Lead to User Account Issues.</description>
+      <enclosure url="https://hvhoon.github.io/tars-podcast-feed/data/episodes/pulse_daily_saturday_october_31_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1793438799617-plhd2m</guid>
+      <pubDate>Sat, 31 Oct 2026 09:26:39 GMT</pubDate>
+      <itunes:duration>182</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, October 30, 2026</title>
       <description>Applied AI: Hacker News: Applied AI drives flash memory market shifts and powers agentic video editing. | Healthcare Delivery Innovation: Landmark project recruits 10,000 Indian stem cell donors, boosting matches for British Asian patients. | Iran-US Conflict: Amidst Iran&apos;s deadly confrontation and alleged threats, US military leadership shifts as mediators pursue a deal. | Mumbai Infrastructure: Mumbai Infrastructure Eyes Growth with Airport Hotels and Extended Eastern Freeway Project.</description>
