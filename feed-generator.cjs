@@ -26,8 +26,15 @@ const FEED_FILE = path.join(__dirname, 'feed.xml');
 
 const FEED_TITLE = 'Pulse';
 const FEED_DESCRIPTION = 'Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.';
-const FEED_LINK = 'https://hvhoon.github.io/tars-podcast-feed/feed.xml';
-const FEED_IMAGE = 'https://hvhoon.github.io/tars-podcast-feed/TARS.png'; // Cover image
+const CONFIG_FILE = path.join(__dirname, 'feed.config.json');
+function validateBase(base) {
+  if (typeof base !== 'string' || !base || base.endsWith('/')) throw new Error('publicBaseUrl must have no trailing slash');
+  const url = new URL(base);
+  if (url.protocol !== 'https:' || url.username || url.password || url.search || url.hash || url.href.replace(/\/$/, '') !== base) throw new Error('publicBaseUrl must be a canonical HTTPS base URL');
+  return base;
+}
+const config = JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf8'));
+let publicBaseUrl = validateBase(config.publicBaseUrl);
 
 // ── Data ──
 
@@ -62,6 +69,8 @@ function formatRFC2822(date) {
 }
 
 function buildFeed(episodes) {
+  const FEED_LINK = publicBaseUrl + '/feed.xml';
+  const FEED_IMAGE = publicBaseUrl + '/TARS.png';
   const now = formatRFC2822(new Date());
   
   const items = episodes.map(ep => {
@@ -101,6 +110,7 @@ function buildFeed(episodes) {
     <language>en-us</language>
     <lastBuildDate>${now}</lastBuildDate>
     <atom:link href="${escapeXml(FEED_LINK)}" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>${escapeXml(FEED_LINK)}</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
     <itunes:summary>${escapeXml(FEED_DESCRIPTION)}</itunes:summary>
     <itunes:category text="News" />
@@ -257,6 +267,30 @@ function cmdBuild() {
   console.log(`✅ Feed built: ${episodes.length} episodes → ${FEED_FILE}`);
 }
 
+function cmdSetBase(args) {
+  const next = validateBase(args.url);
+  // Unlike the legacy list command, migration must never recover bad data as [].
+  const episodes = JSON.parse(fs.readFileSync(EPISODES_FILE, 'utf8'));
+  if (!Array.isArray(episodes)) throw new Error('episodes.json must be an array');
+  const prefix = publicBaseUrl + '/data/episodes/';
+  let matched = 0;
+  let changed = 0;
+  const updated = episodes.map(ep => {
+    if (typeof ep.audioUrl !== 'string' || !ep.audioUrl.startsWith(prefix)) return ep;
+    matched++;
+    const audioUrl = next + ep.audioUrl.slice(publicBaseUrl.length);
+    if (audioUrl !== ep.audioUrl) changed++;
+    return { ...ep, audioUrl };
+  });
+  console.log(`${args.dryRun ? 'dry-run: ' : ''}${matched} self-hosted, ${changed} rewritten, ${episodes.length - matched} untouched`);
+  if (args.dryRun) return;
+  publicBaseUrl = next;
+  const xml = buildFeed(updated);
+  if (changed) saveEpisodes(updated);
+  fs.writeFileSync(CONFIG_FILE, JSON.stringify({ ...config, publicBaseUrl: next }, null, 2) + '\n');
+  fs.writeFileSync(FEED_FILE, xml);
+}
+
 // ── CLI ──
 
 async function main() {
@@ -268,8 +302,8 @@ async function main() {
   for (let i = 0; i < rawArgs.length; i++) {
     if (rawArgs[i].startsWith('--')) {
       const key = rawArgs[i].replace(/^--/, '').replace(/-([a-z])/g, (_, c) => c.toUpperCase());
-      args[key] = rawArgs[i + 1] || true;
-      i++;
+      if (key === 'dryRun') args[key] = true;
+      else { args[key] = rawArgs[++i]; }
     }
   }
   
@@ -278,6 +312,7 @@ async function main() {
     case 'remove': cmdRemove(args); break;
     case 'list': cmdList(); break;
     case 'build': cmdBuild(); break;
+    case 'set-base': cmdSetBase(args); break;
     default:
       console.log(`Usage: node feed-generator.cjs <add|remove|list|build> [options]`);
       console.log(`\nExamples:`);

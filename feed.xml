@@ -8,8 +8,9 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://hvhoon.github.io/tars-podcast-feed/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:19:29 GMT</lastBuildDate>
     <atom:link href="https://hvhoon.github.io/tars-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://hvhoon.github.io/tars-podcast-feed/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
     <itunes:summary>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</itunes:summary>
     <itunes:category text="News" />
