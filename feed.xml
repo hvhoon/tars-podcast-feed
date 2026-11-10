@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:13:00 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,16 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, November 10, 2026</title>
+      <description>Miami Beach Local: Shocking images show Miami and Fort Lauderdale submerged by seawater, with next king tides expected soon.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_tuesday_november_10_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1794305580423-p52g3y</guid>
+      <pubDate>Tue, 10 Nov 2026 10:13:00 GMT</pubDate>
+      <itunes:duration>30</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, November 9, 2026</title>
       <description>Applied AI: Apple juggles AI budget caps and CEO ambition while a new &quot;Control Layer Demo&quot; for AI coding agents emerges. | Iran-US Conflict: US acts on Iran: Ship hit, &apos;$20M Iran NUKE HUNT&apos; pursued as Iran rejects expanded blockade. | Mumbai Infrastructure: Mumbai&apos;s Largest TBMs Gear Up for Coastal Road North Twin Tunnels.</description>
