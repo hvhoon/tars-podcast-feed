@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:33:58 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,57 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Wednesday, November 11, 2026</title>
+      <description>Applied AI: Applied AI expands with new user tools, evolving monetization, and strengthening industry-research ties. | Digital Health Competitive Landscape: UK AI in Healthcare Market Projected to Exceed $3 Billion by 2034. | Healthcare Delivery Innovation: AI, advanced diagnostics, and digital tools are rapidly advancing healthcare delivery innovation. | Iran-US Conflict: US-Iran Conflict Continues: Blockades Broaden, Iran Hits Radar, Missiles Unveiled, No Talks, Despite Trump&apos;s Attack Outlook. | Miami Arts &amp; Culture: THOUGHTS:
+The user wants a single, punchy sentence that synthesizes the key theme of the provided news bullets.
+I need to be very careful with wording fidelity and avoid intensifying or substituting terms, especially those related to harm or legal status.
+In this case, the bullet is about an art debut. There are no sensitive terms to worry about.
+
+Bullet:
+1. RAKI will make their debut at Miami Art Week 2026.
+
+Key theme: A new participant (RAKI) is debuting at a significant art event (Miami Art Week) in the future (2026).
+
+How to make it punchy and synthesize the key theme?
+&quot;RAKI debuts at Miami Art Week 2026.&quot; - This is accurate and concise.
+&quot;Miami Art Week 2026 welcomes RAKI&apos;s debut.&quot; - Also accurate.
+&quot;RAKI set for Miami Art Week 2026 debut.&quot; - Good.
+&quot;Anticipate RAKI&apos;s debut at Miami Art Week 2026.&quot; - A bit less punchy.
+
+The user asked for *one* punchy sentence.
+The core information is &quot;RAKI debuts Miami Art Week 2026&quot;.
+
+Let&apos;s try to add a little more flavor without adding words that aren&apos;t supported or changing meaning.
+&quot;RAKI makes Miami Art Week 2026 debut.&quot; - &quot;Makes debut&quot; is slightly less active than &quot;debuts&quot; but still very clear.
+&quot;RAKI to debut at Miami Art Week 2026.&quot; - This uses &quot;to debut&quot; which accurately reflects the future event.
+&quot;Miami Art Week 2026 to host RAKI&apos;s debut.&quot; - This focuses on Miami Art Week.
+
+The prompt emphasizes &quot;synthesizes the key theme&quot;. The key theme here is the *debut* of RAKI at the event.
+
+Let&apos;s stick to a direct, active construction.
+&quot;RAKI debuts at Miami Art Week 2026.&quot; This is perfectly faithful to the bullet and punchy.
+The bullet states &quot;RAKI will make their debut&quot;. &quot;RAKI debuts&quot; captures this concisely.
+
+Double-check constraints:
+- ONE punchy sentence: Yes.
+- Synthesizes key theme: Yes, the debut.
+- No preamble: Yes.
+- Preserve bullets&apos; wording fidelity: &quot;RAKI&quot;, &quot;debut&quot;, &quot;Miami Art Week 2026&quot; are all preserved. &quot;will make their debut&quot; is synthesized into &quot;debuts&quot; which is a direct, accurate verb form of the action.
+- Do NOT intensify or substitute harm-severity terms, legal status terms, or outcome terms: Not applicable here, no such terms are present.
+- Terms like injured, wounded... are NOT interchangeable: Not applicable.
+- If bullets say injuries or wounded, you must NOT rewrite that as casualties, deaths, or killings: Not applicable.
+- If the bullets do not claim fatalities, the headline must not imply fatalities: Not applicable.
+- Stay strictly within what the bullets explicitly support: Yes.
+
+&quot;RAKI debuts at Miami Art Week 2026.&quot; seems like the best fit. It&apos;s direct, active, and fully compliant. | Miami Beach Local: Miami Beach arrests man wanted for multiple rapes, including a recent New York City assault. | Mumbai Infrastructure: Mumbai&apos;s infrastructure drives forward with airport redevelopment, energy upgrades, connectivity boosts, and urban planning review. | OpenClaw: Over 575 malicious OpenClaw skills have delivered malware to Windows and macOS systems even as Mimzie launches as an agent-neutral alternative to the Claude Suite/Claude Cowork.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_wednesday_november_11_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1794393238512-v4jslh</guid>
+      <pubDate>Wed, 11 Nov 2026 10:33:58 GMT</pubDate>
+      <itunes:duration>306</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Tuesday, November 10, 2026</title>
       <description>Miami Beach Local: Shocking images show Miami and Fort Lauderdale submerged by seawater, with next king tides expected soon.</description>
