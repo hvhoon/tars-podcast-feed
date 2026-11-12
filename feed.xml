@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:33:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:34:10 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,16 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Thursday, November 12, 2026</title>
+      <description>Applied AI: Applied AI drives global talent and adoption initiatives while navigating market &apos;bubble&apos; fears. | Healthcare Delivery Innovation: New projects, partnerships, and advanced tech propel global healthcare innovation. | Iran-US Conflict: Iran-US conflict sows $200 billion in Gulf damage, prompts US-Israel financial rift and Iran&apos;s Strait of Hormuz closure stance, while drawing China into high-level diplomacy. | Miami Arts &amp; Culture: GTA VI Mural Paints Over Miami Artist Rect&apos;s Memorial. | Miami Beach Local: Miami Beach navigates legal challenges for heritage, future housing, and community celebrations. | Mumbai Infrastructure: NCLT Mumbai Blocks Reliance Infrastructure&apos;s SU Toll Road Revival Plan. | OpenClaw: OpenClaw and AI agents bypass website security, creating new privileged access problems and proving difficult to contain.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_thursday_november_12_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1794479650503-00w4p1</guid>
+      <pubDate>Thu, 12 Nov 2026 10:34:10 GMT</pubDate>
+      <itunes:duration>190</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Wednesday, November 11, 2026</title>
       <description>Applied AI: Applied AI expands with new user tools, evolving monetization, and strengthening industry-research ties. | Digital Health Competitive Landscape: UK AI in Healthcare Market Projected to Exceed $3 Billion by 2034. | Healthcare Delivery Innovation: AI, advanced diagnostics, and digital tools are rapidly advancing healthcare delivery innovation. | Iran-US Conflict: US-Iran Conflict Continues: Blockades Broaden, Iran Hits Radar, Missiles Unveiled, No Talks, Despite Trump&apos;s Attack Outlook. | Miami Arts &amp; Culture: THOUGHTS:
