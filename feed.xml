@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:29:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:32:19 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,16 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, November 14, 2026</title>
+      <description>Applied AI: Applied Digital and AI stocks sink amid hacking reports and diminishing returns. | Digital Health Competitive Landscape: Digital Health Accelerates: Clinical IT Surges, Digital Pathology Detailed. | Healthcare Delivery Innovation: Google&apos;s Gemini AI targets healthcare&apos;s data problem. | Iran-US Conflict: Iran Targets US, Threatens Europe Amidst Widespread Regional Activity. | Miami Arts &amp; Culture: Miami Swim Week The Shows 2026 spotlights Amarotto Swimwear and Italian Riviera collections on the runway. | Miami Beach Local: Miami Beach Faces Elections and Record King Tide. | OpenClaw: OpenClaw&apos;s CALL-E enables AI agents to make real phone calls, as a new report details running them locally on a single GPU.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_saturday_november_14_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1794652339348-e9sspr</guid>
+      <pubDate>Sat, 14 Nov 2026 10:32:19 GMT</pubDate>
+      <itunes:duration>168</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, November 13, 2026</title>
       <description>Applied AI: Applied AI fuels record chip demand, complicates app review, and expands blockchain development. | Healthcare Delivery Innovation: Virtual Care, AI, and Local Projects Drive Global Healthcare Delivery Innovation. | Iran-US Conflict: Houthi missile launches and Iran&apos;s claimed US radar strike intensify fears of widening regional conflict, as the US maintains contacts with Tehran despite President Trump&apos;s &quot;no deal&quot; stance. | Miami Beach Local: Polo World Cup Integrates World-Class Sport with Miami Beach Hospitality; Suspect Sought After Over a Dozen Cats Dumped. | Mumbai Infrastructure: Mumbai&apos;s infrastructure showcases &apos;poor infrastructure&apos; at NMIA and a KEM Hospital &apos;infrastructure crisis&apos;, countered by a successful &apos;Banner-Free Drive&apos; clearing displays.</description>
