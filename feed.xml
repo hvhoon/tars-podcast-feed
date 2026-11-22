@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:32:26 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,16 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Sunday, November 22, 2026</title>
+      <description>Applied AI: Applied AI fuels record earnings, draws massive investment, and shifts leadership. | Digital Health Competitive Landscape: Benenden Hospital Consultants Now Available at London&apos;s Battersea Power Station with Lips Healthcare. | Healthcare Delivery Innovation: Healthcare Innovation&apos;s Future: Precision Medicine and Scalable Healthcare Businesses. | Iran-US Conflict: Hormuz On Edge: US Prepares Escalation While Ruling Out Regime Change for Nuclear Deal. | Miami Beach Local: Observed tornado brings reported damage to Boca Raton and Delray Beach after Miami-Dade and Broward warning. | Mumbai Infrastructure: Mumbai infrastructure: bullet train trials near and bridge proposed, but green protests and delays persist. | OpenClaw: OpenClaw boosts AI agent capabilities with new tools for inspection, self-correction, and 24/7 solutions.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_sunday_november_22_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1795343546820-a4kyh8</guid>
+      <pubDate>Sun, 22 Nov 2026 10:32:26 GMT</pubDate>
+      <itunes:duration>209</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Saturday, November 21, 2026</title>
       <description>Applied AI: Applied AI drives new agents, regional labs, and research, alongside competitive tools and infrastructure stock declines. | Healthcare Delivery Innovation: Healthcare innovation earns top honors for financial tech and Smart Glasses for the Blind. | Iran-US Conflict: Iran Declares &apos;ARMAGEDDON&apos; Amid Stalled Uranium Talks and Tanker Hits. | Miami Arts &amp; Culture: Exclusive preview of Naudline Pierre&apos;s monumental stairwell installation unveiled in Miami. | Miami Beach Local: Car sinks in Miami Beach canal, driver hospitalized. | Mumbai Infrastructure: Mumbai&apos;s infrastructure surge, from &apos;Pataal Lok&apos; to Metro progress, sparks open space debates. | OpenClaw: OpenClaw: Powering 72 AI agents 24/7 in production, yet unused for approximately eight months by those preferring Hermes for local models.</description>
