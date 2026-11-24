@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:34:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:32:10 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,16 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Tuesday, November 24, 2026</title>
+      <description>Applied AI: Applied AI fuels multi-billion dollar deals and diverse sector integration. | Healthcare Delivery Innovation: African Nations Leverage Digital Innovation for Enhanced Healthcare Delivery. | Iran-US Conflict: Iran attacks US bases and civilian sites in the Gulf while setting 7 conditions for talks. | Miami Arts &amp; Culture: Miami&apos;s art scene embraces digital innovation while inspiring video game worlds. | Mumbai Infrastructure: Mumbai&apos;s infrastructure agenda spans hospital upgrades, new corridors, and innovative traffic solutions. | OpenClaw: OpenClaw releases reliability fixes as Gemini reportedly blocks its external harness.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_tuesday_november_24_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1795516330685-k15pyk</guid>
+      <pubDate>Tue, 24 Nov 2026 10:32:10 GMT</pubDate>
+      <itunes:duration>239</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Monday, November 23, 2026</title>
       <description>Applied AI: Applied AI&apos;s impact spans from unconsented VistaPrint edits to Mauritius&apos;s &apos;AI Automation Gap&apos;. | Digital Health Competitive Landscape: Digital health solutions gain traction with AI screening trials, e-prescription pushes, and a projected US$27.00 mental health market. | Healthcare Delivery Innovation: AI, a growing healthcare workforce, and personal innovation spark a revolution in healthcare access. | Iran-US Conflict: Iran&apos;s navy reports tankers ablaze by mines near Hormuz, touts new missile capabilities amid ongoing war. | Miami Arts &amp; Culture: African Artists: Occhi Call with Fluxus Art Projects Closes Nov. 24. | Miami Beach Local: Wrong-way crash injures multiple and closes roads as thousands across Florida deal with historic flooding. | Mumbai Infrastructure: Mumbai infrastructure surges with high-speed rail progress, record airport traffic, and Dharavi redevelopment, even as coastal road work faces scrutiny. | OpenClaw: Shared KV Cache Capacity, Not Model Speed, Suggested as Primary AI Agent Bottleneck by arXiv Paper.</description>
