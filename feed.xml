@@ -8,7 +8,7 @@
     <description>Curated podcast episodes by Pulse — current awareness radar. Episodes are organized by tracked topic.</description>
     <link>https://pulse-podcast.7islands.network/feed.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:34:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:27:51 GMT</lastBuildDate>
     <atom:link href="https://pulse-podcast.7islands.network/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://pulse-podcast.7islands.network/feed.xml</itunes:new-feed-url>
     <itunes:author>TARS</itunes:author>
@@ -20,6 +20,16 @@
       <title>Pulse</title>
       <link>https://pulse-podcast.7islands.network/feed.xml</link>
     </image>
+    <item>
+      <title>Daily Update - Saturday, November 28, 2026</title>
+      <description>Applied AI: Applied AI tackles economic crime, fortifies cyber defenses, and formalizes deployment expertise. | Iran-US Conflict: U.S. bombs Iran, disables ship over blockade, claims victory with a deal offer, while China warns on oil. | Miami Beach Local: Miami-Dade Man Fatally Shot Multiple Times. | Mumbai Infrastructure: Mumbai&apos;s infrastructure makes strides with new energy plants, power upgrades, and diverse projects, eyeing retail investment. | OpenClaw: OpenClaw highlights its &apos;Knowledge&apos; feature, showcases the Fleetlayer framework for AI agents, and offers hosting Black Friday deals.</description>
+      <enclosure url="https://pulse-podcast.7islands.network/data/episodes/pulse_daily_saturday_november_28_2026.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">tars-1795861671117-uoczw6</guid>
+      <pubDate>Sat, 28 Nov 2026 10:27:51 GMT</pubDate>
+      <itunes:duration>197</itunes:duration>
+      
+      <itunes:author>TARS</itunes:author>
+    </item>
     <item>
       <title>Daily Update - Friday, November 27, 2026</title>
       <description>Applied AI: Applied AI Accelerates with Global Partnerships and New University Programs. | Digital Health Competitive Landscape: The AI wealth race expands beyond Silicon Valley, citing DeepSeek&apos;s $55 Billion founder. | Healthcare Delivery Innovation: Kenya advances healthcare delivery innovation with strategic tech investment, expanded professional capacity, and a focus on AI governance. | Iran-US Conflict: Iran claims US &apos;stole&apos; tankers, denies alleged drone attack that reportedly killed Italian technicians. | Miami Arts &amp; Culture: Miami&apos;s cultural canvas stretches from hotel art exhibitions to AI-coded GTA-style cities. | Miami Beach Local: Flooding, a shooting, a crocodile sighting, and Art Basel&apos;s homegrown talent reveal Miami Beach&apos;s diverse pulse. | OpenClaw: AntSeed launches cheaper 24/7 access to OpenClaw, which is perceived to be evolving through other agent forms.</description>
